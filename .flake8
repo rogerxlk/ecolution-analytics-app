@@ -1,0 +1,5 @@
+[flake8]
+max-line-length = 130
+ignore = E501, E203, E302, E303, W292, F403, F405, F401, W503, E712
+exclude = .git,__pycache__,build,dist
+docstring-convention = numpy
