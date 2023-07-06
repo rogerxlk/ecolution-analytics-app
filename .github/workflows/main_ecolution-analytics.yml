@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ecolution-analytics'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E49712589E06464C828ED5A0A27CC8E1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B103B9C3DB7C40278A75673470922247 }}
