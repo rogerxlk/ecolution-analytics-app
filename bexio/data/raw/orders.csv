@@ -1,0 +1,959 @@
+id,document_nr,title,contact_id,contact_sub_id,user_id,project_id,logopaper_id,language_id,bank_account_id,currency_id,payment_type_id,header,footer,total_gross,total_net,total_taxes,total,total_rounding_difference,mwst_type,mwst_is_net,show_position_taxes,is_valid_from,contact_address,delivery_address_type,delivery_address,kb_item_status_id,is_recurring,api_reference,viewed_by_client_at,updated_at,template_slug,taxs,network_link
+2,AU-00002,"GEAK®Plus, MFH, Kt. ZG - Dammstr.10",10,,1,,1,1,1,1,4,Guten Tag Stadt Zug<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1950.000000,1703.350000,246.6574,1950.000000,0.0,0,False,False,2022-03-25,"Stadt Zug
+c/o Finanzdepartement Immobilien
+Gubelstrasse 22
+6301 Zug
+Schweiz",0,"Stadt Zug
+c/o Finanzdepartement Immobilien
+Gubelstrasse 22
+6301 Zug
+Schweiz",6,False,,,2022-07-22 09:53:07,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '246.6574'}]",
+3,AU-00003,"GEAK®, EFH, Kt. AG",8,,1,2.0,1,1,1,1,4,Guten Tag Herbert Schacher<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,860.000000,798.500000,61.4856,860.000000,0.0,0,False,False,2022-03-25,"Herr
+Herbert Schacher
+Schlosshubelweg 32
+4805 Brittnau
+Schweiz",0,"Herr
+Herbert Schacher
+Schlosshubelweg 32
+4805 Brittnau
+Schweiz",6,False,,,2022-04-25 14:29:15,,"[{'percentage': '7.70', 'value': '61.4856'}]",
+4,AU-00004,"GEAK®Plus, EFH, Kt. AG",13,,1,6.0,1,1,1,1,4,Guten Tag David Fingerle<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1100.000000,949.850000,150.1393,1100.000000,0.0,0,False,False,2022-03-28,"Herr
+David Fingerle
+Heuweg 18
+5706 Boniswil
+Schweiz",0,"Herr
+David Fingerle
+Heuweg 18
+5706 Boniswil
+Schweiz",6,False,,,2022-07-22 10:07:45,,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '150.1393'}]",
+5,AU-00005,"GEAK®Plus, EFH, Kt. ZH",14,,1,,1,1,1,1,4,Guten Tag Bernhard und Elsbeth Peter<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1100.000000,949.850000,150.1393,1100.000000,0.0,0,False,False,2022-03-28,"Herr & Frau
+Bernhard und Elsbeth Peter
+Hofackerstrasse 12
+8545 Rickenbach Sulz
+Schweiz",0,"Herr & Frau
+Bernhard und Elsbeth Peter
+Hofackerstrasse 12
+8545 Rickenbach Sulz
+Schweiz",6,False,,,2022-07-22 10:40:20,,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '150.1393'}]",
+6,AU-00006,"Planung HLK - Gassenacker 10, Rickenbach ZH, NB MFH",11,,1,10.0,1,1,1,1,4,Guten Tag nosh gmbh<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,8250.000000,8250.000000,635.2500,8885.250000,0.0,0,True,False,2022-04-01,"nosh gmbh
+Tösstalstrasse 230
+8405 Winterthur
+Schweiz",0,"nosh gmbh
+Tösstalstrasse 230
+8405 Winterthur
+Schweiz",15,False,,,2022-10-28 14:54:05,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '635.2500'}]",
+7,AU-00007,"Planung S - Gassenacker 10, Rickenbach ZH, NB MFH",11,,1,9.0,1,1,1,1,4,Guten Tag nosh gmbh<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,2500.000000,2500.000000,192.5000,2692.500000,0.0,0,True,False,2022-04-01,"nosh gmbh
+Tösstalstrasse 230
+8405 Winterthur
+Schweiz",0,"nosh gmbh
+Tösstalstrasse 230
+8405 Winterthur
+Schweiz",6,False,,,2022-10-28 15:28:26,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '192.5000'}]",
+9,AU-00009,"Gebäudeanalyse + kant. Förderantrag Flachdach, Amsler + Frey",12,,1,11.0,1,1,1,1,4,Guten Tag Go Smart Solution AG<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,6980.000000,6027.300000,464.1019,6491.400000,0.0,0,False,False,2022-04-08,"Go Smart Solution AG
+Denis Fischer
+Tanneraistrasse 10
+5244 Birrhard
+Schweiz",0,"Go Smart Solution AG
+Denis Fischer
+Tanneraistrasse 10
+5244 Birrhard
+Schweiz",6,False,,,2022-06-01 17:52:06,,"[{'percentage': '7.70', 'value': '464.1019'}]",
+10,AU-00010,"Gebäudeanalyse + kant. Förderantrag Flachdach,  Constri",12,,1,12.0,1,1,1,1,4,Guten Tag Go Smart Solution AG<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,7560.000000,6528.150000,502.6663,7030.800000,0.0,0,False,False,2022-04-08,"Constri AG
+Stefan Getzmann
+Feldstrasse 20
+5107 Schinznach-Dorf
+Schweiz",0,"Constri AG
+Stefan Getzmann
+Feldstrasse 20
+5107 Schinznach-Dorf
+Schweiz",6,False,,,2022-07-22 09:58:43,,"[{'percentage': '7.70', 'value': '502.6663'}]",
+11,AU-00011,"GEAK®Plus, EFH, Kt. BL",16,,1,13.0,1,1,1,1,4,Guten Tag Denise und Andreas Kaiser<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1100.000000,949.850000,150.1393,1100.000000,0.0,0,False,False,2022-04-19,"Herr & Frau
+Denise und Andreas Kaiser
+4133 Pratteln
+Schweiz",0,"Herr & Frau
+Denise und Andreas Kaiser
+4133 Pratteln
+Schweiz",6,False,,,2022-06-15 13:23:33,,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '150.1393'}]",
+12,AU-00012,"GA - Aspstr.15, Seuzach",17,,1,15.0,1,1,1,1,4,Sehr geehrte Herr Brunner<br /><br />Vielen Dank f&uuml;r Ihre Auftragserteilung und das entgegengebrachte Vertrauen. <br />Nachfolgend finden Sie die Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,6790.000000,4911.800000,378.2080,5290.000000,0.0,0,False,False,2022-04-25,"Sprenger Söhne Holzbau AG
+Hans Brunner
+Aspstrasse 15
+8472 Seuzach
+Schweiz",0,"Sprenger Söhne Holzbau AG
+Hans Brunner
+Aspstrasse 15
+8472 Seuzach
+Schweiz",15,False,,,2022-08-22 09:33:06,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '378.2080'}]",
+13,AU-00013,GEAK®Plus - Energetische Gebäudeanalyse,18,,1,16.0,1,1,1,1,4,Guten Tag Kull-Laube AG<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,2670.000000,2253.250000,283.2270,2536.500000,0.0,0,False,False,2022-05-03,"Kull-Laube AG
+René Huber
+Halbartenstrasse 50
+5430 Wettingen
+Schweiz",0,"Kull-Laube AG
+René Huber
+Halbartenstrasse 50
+5430 Wettingen
+Schweiz",6,False,,,2022-05-31 14:11:49,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '283.2270'}]",
+14,AU-00014,"Planung HLS - Schmiedgässli 3, Fahrwangen, MFH",4,20.0,1,20.0,1,1,1,1,4,Guten Tag Yvan Stalder<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,10700.000000,10700.000000,823.9000,11523.900000,0.0,0,True,False,2022-05-04,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2023-01-24 11:41:00,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '823.9000'}]",
+15,AU-00015,Planung Heizung + Abluft,6,,1,21.0,1,1,1,1,4,Guten Tag Sani Project<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,6800.000000,6800.000000,523.6000,7323.600000,0.0,0,True,False,2022-05-04,"Sani Project
+Guido Wolter
+Rebhaldenweg 22
+5443 Niederrohrdorf
+Schweiz",0,"Sani Project
+Guido Wolter
+Rebhaldenweg 22
+5443 Niederrohrdorf
+Schweiz",5,False,,,2022-10-12 10:37:14,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '523.6000'}]",
+16,AU-00016,"Ausführungsplanung HLS, Albisstrasse 5, Wigger, 6330 Cham",4,20.0,1,22.0,1,1,1,1,4,Guten Tag Yvan Stalder<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,2500.000000,2500.000000,192.5000,2692.500000,0.0,0,True,False,2022-05-04,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2022-12-08 16:30:40,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '192.5000'}]",
+17,AU-00017,"Planung HLS, Panoramaweg, Meisterschwanden, Waser",4,20.0,1,,1,1,1,1,4,Guten Tag Yvan Stalder<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,8200.000000,8200.000000,631.4000,8831.400000,0.0,0,True,False,2022-05-04,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2023-05-05 15:45:53,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '631.4000'}]",
+18,AU-00018,"Gesuche - Oberdorfstr.12, Lieli LU",4,20.0,1,29.0,1,1,1,1,4,Guten Tag Yvan Stalder<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,310.000000,310.000000,23.8700,333.850000,-0.02,0,True,False,2022-05-05,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2022-05-18 08:38:17,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '23.8700'}]",
+20,AU-00020,"Gesuche - Albisstr.9, Cham",4,20.0,1,,1,1,1,1,4,Guten Tag Yvan Stalder<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,310.000000,310.000000,23.8700,333.850000,-0.02,0,True,False,2022-05-06,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2022-05-18 08:32:12,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '23.8700'}]",
+21,AU-00021,"Gesuche - Bremgarterstr.7, Waltenschw. AG",4,20.0,1,33.0,1,1,1,1,4,Guten Tag Yvan Stalder<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,590.000000,590.000000,45.4300,635.450000,0.02,0,True,False,2022-05-06,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2022-05-18 08:37:26,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '45.4300'}]",
+23,AU-00023,"Planung Sanitär - Tellstr.5/5a, Weinfelden",5,,1,35.0,1,1,1,1,4,Sehr geehrter Herr Kajtazi<br /><br />Vielen Dank f&uuml;r die Auftragserteilung und das entgegengebrachte Vertrauen. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Bei Fragen d&uuml;rfen Sie uns gerne kontaktieren<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff<br />ECOLUTION,12999.050000,12999.050000,1000.9269,14000.000000,0.02,0,True,False,2022-05-16,"AQUASANI GmbH
+Jozef Kajtazi
+Freiestrasse 48A
+8580 Amriswil
+Schweiz",0,"AQUASANI GmbH
+Jozef Kajtazi
+Freiestrasse 48A
+8580 Amriswil
+Schweiz",6,False,,,2023-05-05 15:04:45,622f308b87e2d83a3d360505,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '1000.9269'}]",
+24,AU-00024,"EB-Nachweis - Fischweg 3, Meisterschwanden",4,20.0,1,36.0,1,1,1,1,4,Guten Tag Yvan Stalder<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,800.000000,800.000000,61.6000,861.600000,0.0,0,True,False,2022-05-18,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Herr Stalder Yvan
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2022-07-22 09:52:56,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '61.6000'}]",
+25,AU-00025,"GEAK+ Pfarrgasse 6, Herrliberg ZH, EFH",25,,1,37.0,1,1,1,1,4,Guten Tag Christopher Heinrich<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1100.000000,949.850000,150.1393,1100.000000,0.0,0,False,False,2022-05-19,"Herr
+Christopher Heinrich
+8704 Herrliberg
+Schweiz",0,"Herr
+Christopher Heinrich
+8704 Herrliberg
+Schweiz",6,False,,,2022-12-08 16:32:53,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '150.1393'}]",
+26,AU-00026,"Planung H/S - Erni, Guggibadstr.6, Schongau",4,,1,38.0,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,8700.000000,8700.000000,669.9000,9369.900000,0.0,0,True,False,2022-05-25,"Stalder-Rüttimann GmbH
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",5,False,,,2022-07-13 14:04:22,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '669.9000'}]",
+27,AU-00027,"Hiltiweg 17, 5443 Niederrohrdorf, NB 4FH",11,,1,39.0,1,1,1,1,4,Guten Tag nosh gmbh<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,520.000000,520.000000,28.4900,548.500000,0.01,0,True,False,2022-05-31,"nosh gmbh
+Tösstalstrasse 230
+8405 Winterthur
+Schweiz",0,"nosh gmbh
+Tösstalstrasse 230
+8405 Winterthur
+Schweiz",6,False,,,2022-06-15 13:20:46,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '28.4900'}]",
+28,AU-00028,"Gesuche - Erlistrasse 8a/10a, 6312 Steinhausen ZG",4,,1,40.0,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,880.000000,880.000000,67.7600,947.750000,-0.01,0,True,False,2022-06-02,"Stalder-Rüttimann GmbH
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2022-07-22 09:42:54,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '67.7600'}]",
+29,AU-00029,"Gesuche - Martinsstr.15, Boswil AG, Raffi",4,,1,41.0,1,1,1,1,4,Guten Tag Herr Stalder<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,310.000000,310.000000,23.8700,333.850000,-0.02,0,True,False,2022-06-02,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2022-07-22 09:44:44,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '23.8700'}]",
+30,AU-00030,"Gesuche - Brunnäckerstr.15, Bettwil AG, Luginbühl",4,,1,42.0,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,440.000000,440.000000,33.8800,473.900000,0.02,0,True,False,2022-06-02,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2022-07-22 09:44:22,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '33.8800'}]",
+31,AU-00031,"GEAK®Plus, EFH, Kt. AG - Staldenstr.17, Untersiggenthal AG",30,,1,44.0,1,1,1,1,4,Guten Tag Michael Obrist<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1130.000000,977.700000,152.2841,1130.000000,0.0,0,False,False,2022-06-09,"Herr
+Michael Obrist
+Staldenstrasse 17
+5417 Untersiggenthal
+Schweiz",0,"Herr
+Michael Obrist
+Staldenstrasse 17
+5417 Untersiggenthal
+Schweiz",6,False,,,2022-12-08 16:33:00,622f308b87e2d83a3d360505,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '152.2841'}]",
+32,AU-00032,"GEAK®Plus, EFH, Kt. AG - Untere Haldenstr.4, Villnachern",36,,1,45.0,1,1,1,1,4,Sehr geehrter Herr Hasler<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,1100.000000,949.850000,150.1393,1100.000000,0.0,0,False,False,2022-06-10,"Herr
+David Hasler
+Dorfstrasse 4
+5213 Villnachern
+Schweiz",0,"Herr
+David Hasler
+Dorfstrasse 4
+5213 Villnachern
+Schweiz",6,False,,,2022-09-02 11:29:14,622f308b87e2d83a3d360505,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '150.1393'}]",
+33,AU-00033,"Private Kontrolle WTA - Massholderenstr.52, Stallikon",7,,1,,1,1,1,1,4,Guten Tag Grolimund AG<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,120.000000,120.000000,9.2400,129.250000,0.01,0,True,False,2022-06-16,"Grolimund AG
+Yvonne Keusch
+Luzernerstrasse 3
+5630 Muri
+Schweiz",0,"Grolimund AG
+Yvonne Keusch
+Luzernerstrasse 3
+5630 Muri
+Schweiz",6,False,,,2022-06-22 15:42:12,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '9.2400'}]",
+34,AU-00034,"GEAK®Plus, EFH, Kt. SO - Jurastr.88, 2544 Bettlach",41,,1,47.0,1,1,1,1,4,Sehr geehrter Herr Cäsar Von Arx<br /><br />Vielen Dank f&uuml;r die Auftragserteilung und das entgegengebrachte Vertrauen.<br />Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,1100.000000,942.700000,157.2888,1100.000000,0.0,0,False,False,2022-06-30,"Herr
+Cäsar Von Arx
+Jurastrasse 88
+2544 Bettlach
+Schweiz",0,"Herr
+Cäsar Von Arx
+Jurastrasse 88
+2544 Bettlach
+Schweiz",6,False,,,2022-12-08 16:33:06,622f308b87e2d83a3d360505,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '157.2888'}]",
+36,AU-00036,"GEAK®Plus, MFH, Kt. LU - Schlössliring 7, Wolhusen LU",51,,1,,1,1,1,1,4,Sehr geehrter Herr Stojkovic<br /><br />Vielen Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,2100.000000,1871.200000,228.7837,2100.000000,0.0,0,False,False,2022-07-11,"Herr
+Vlastimir Stojkovic
+Schlössliring 7
+6110 Wolhusen
+Schweiz",0,"Herr
+Vlastimir Stojkovic
+Schlössliring 7
+6110 Wolhusen
+Schweiz",6,False,,,2023-05-03 09:18:15,622f308b87e2d83a3d360505,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '228.7837'}]",
+37,AU-00037,"Gesuche - Luzernerstr.37, Cham, Zwyssig, MFH",4,,1,48.0,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,420.000000,420.000000,32.3400,452.350000,0.01,0,True,False,2022-07-21,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2022-12-08 16:33:25,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '32.3400'}]",
+39,AU-00039,"Devis S - Feuerwehrstr.9-1, 9400 Rohrschach, WÜB 26 Whg",5,,1,54.0,1,1,1,1,4,Guten Tag AQUASANI GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,557.100000,557.100000,42.8967,600.000000,0.0,0,True,False,2022-09-01,"AQUASANI GmbH
+Jozef Kajtazi
+Wuhrstrasse 2
+8580 Amriswil
+Schweiz",0,"AQUASANI GmbH
+Jozef Kajtazi
+Wuhrstrasse 2
+8580 Amriswil
+Schweiz",6,False,,,2022-12-08 16:33:34,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '42.8967'}]",
+40,AU-00040,"Impuls gMFH - Flurweg 12, Wettingen AG, MFH",40,,1,55.0,1,1,1,1,4,Guten Tag Eidgenössische Finanzverwaltung EFV<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1800.000000,1800.000000,0.0000,1800.000000,0.0,0,True,False,2022-09-15,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",0,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",21,False,,,2023-01-24 11:38:25,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}]",
+41,AU-00041,"MP Whg 00-04 - MFH Tellstrasse 5+5a, 8570 Weinfelden",5,,1,35.0,1,1,1,1,4,Sehr geehrte Damen und Herren<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,464.250000,464.250000,35.7473,500.000000,0.0,0,True,False,2022-09-23,"AQUASANI GmbH
+Jozef Kajtazi
+Wuhrstrasse 2
+8580 Amriswil
+Schweiz",0,"AQUASANI GmbH
+Jozef Kajtazi
+Wuhrstrasse 2
+8580 Amriswil
+Schweiz",6,False,,,2022-11-11 11:39:10,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '35.7473'}]",
+42,AU-00042,"AB - Umbau EFH, Riedmattenstr.3, Oberrohrdorf",53,54.0,1,56.0,1,1,1,1,4,Sehr geehrter Herr Holenweger<br /><br />Danke f&uuml;r die Auftragserteilung und das entgegengebrachte Vertrauen.<br />Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,3600.000000,3600.000000,277.2000,3877.200000,0.0,0,True,False,2022-09-27,"Blaser Baumanagement AG
+Herr Tobias Holenweger
+Bremgartenstrasse 2
+5443 Niederrohrdorf
+Schweiz",0,"Blaser Baumanagement AG
+Herr Tobias Holenweger
+Bremgartenstrasse 2
+5443 Niederrohrdorf
+Schweiz",15,False,,,2023-02-16 15:36:47,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '277.2000'}]",
+43,AU-00043,"Impulsb EFH - Oesterliwaldweg 4, Baden, EFH",40,,1,57.0,1,1,1,1,4,Guten Tag Eidgenössische Finanzverwaltung EFV<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,450.000000,450.000000,0.0000,450.000000,0.0,0,True,False,2022-09-30,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",0,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",6,False,,,2023-05-26 12:23:58,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}]",
+44,AU-00044,"EN/Ges - Platanenweg, Meisterschw, NB MFH",4,20.0,1,59.0,1,1,1,1,4,Guten Tag Yvan Stalder<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1050.000000,1050.000000,80.8500,1130.850000,0.0,0,True,False,2022-10-03,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2022-12-08 16:34:03,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '80.8500'}]",
+45,AU-00045,"Ges- Oberebersol 49, Hohenrain LU",4,20.0,1,61.0,1,1,1,1,4,Guten Tag Herr Stalder<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,130.000000,130.000000,10.0100,140.000000,-0.01,0,True,False,2022-10-06,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2023-01-18 13:36:19,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '10.0100'}]",
+46,AU-00046,"GEAK®Plus, EFH, Kt. AG - Lerbhaldenstrasse 6, 4665 Oftringen",94,,1,62.0,1,1,1,1,4,Guten Tag Urs Schaffner<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1100.000000,949.850000,150.1393,1100.000000,0.0,0,False,False,2022-10-12,"Herr
+Urs Schaffner
+Lerbhaldenstrasse 6
+4665 Oftringen
+Schweiz",0,"Herr
+Urs Schaffner
+Lerbhaldenstrasse 6
+4665 Oftringen
+Schweiz",15,False,,,2023-02-15 15:30:09,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '150.1393'}]",
+47,AU-00047,"Baueingabe & Gesuche - Schlössliring 7, Wolhusen, UB MFH",51,,1,63.0,1,1,1,1,4,Guten Tag Vlastimir Stojkovic<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,3510.000000,3510.000000,270.2700,3780.250000,-0.02,0,True,False,2022-10-13,"Herr
+Vlastimir Stojkovic
+Schlössliring
+6110 Wolhusen
+Schweiz",0,"Herr
+Vlastimir Stojkovic
+Schlössliring
+6110 Wolhusen
+Schweiz",15,False,,,2023-02-08 16:22:36,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '270.2700'}]",
+48,AU-00048,"384/201 WBD - Eggenstr.11, 5615 Fahrwangen AG",95,,1,65.0,1,1,1,1,4,Guten Tag Frei+Partner Haustechnikplanung AG<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,950.000000,950.000000,73.1500,1023.150000,0.0,0,True,False,2022-10-19,"Frei+Partner Haustechnikplanung AG
+Schartenstrasse 41
+5400 Baden
+Schweiz",0,"Frei+Partner Haustechnikplanung AG
+Schartenstrasse 41
+5400 Baden
+Schweiz",6,False,,,2022-12-08 16:34:18,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '73.1500'}]",
+49,AU-00049,"Planung S - Gassenacker 10, Rickenbach ZH, NB MFH",11,,1,9.0,1,1,1,1,4,Guten Tag nosh gmbh<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,7000.000000,7000.000000,539.0000,7539.000000,0.0,0,True,False,2022-10-28,"nosh gmbh
+Tösstalstrasse 230
+8405 Winterthur
+Schweiz",0,"nosh gmbh
+Tösstalstrasse 230
+8405 Winterthur
+Schweiz",15,False,,,2022-10-28 15:28:44,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '539.0000'}]",
+50,AU-00050,"384/201 WBD -  Zürichstr.60 b/c, Nänikon, 2 MFH",95,,1,,1,1,1,1,4,Sehr geehrte Damen und Herren<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,1800.000000,1800.000000,138.6000,1938.600000,0.0,0,True,False,2022-10-31,"Frei+Partner Haustechnikplanung AG
+Schartenstrasse 41
+5400 Baden
+Schweiz",0,"Frei+Partner Haustechnikplanung AG
+Schartenstrasse 41
+5400 Baden
+Schweiz",6,False,,,2022-12-08 16:34:36,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '138.6000'}]",
+51,AU-00051,"384/201 WBD -  Grossacher 4/6, Ebmatingen, 2 MFH",95,,1,,1,1,1,1,4,Guten Tag Frei+Partner Haustechnikplanung AG<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1857.000000,1857.000000,142.9890,2000.000000,0.01,0,True,False,2022-10-31,"Frei+Partner Haustechnikplanung AG
+Schartenstrasse 41
+5400 Baden
+Schweiz",0,"Frei+Partner Haustechnikplanung AG
+Schartenstrasse 41
+5400 Baden
+Schweiz",15,False,,,2022-12-10 11:14:53,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '142.9890'}]",
+53,AU-00053,"IB gMFH - Seminarstr. 21, 5400 Baden",40,,1,71.0,1,1,1,1,4,Guten Tag Eidgenössische Finanzverwaltung EFV<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1800.000000,1671.300000,128.6908,1800.000000,0.0,0,False,False,2022-11-03,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",0,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",15,False,,,2022-12-29 15:38:19,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '128.6908'}]",
+54,AU-00054,Honorarofferte Sanitär,11,,1,9.0,1,1,1,1,4,Guten Tag nosh gmbh<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,7000.000000,7000.000000,539.0000,7539.000000,0.0,0,True,False,2022-11-04,"nosh gmbh
+Tösstalstrasse 230
+8405 Winterthur
+Schweiz",0,"nosh gmbh
+Tösstalstrasse 230
+8405 Winterthur
+Schweiz",6,False,,,2023-02-08 08:58:10,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '539.0000'}]",
+56,AU-00056,"Planung HLK - Gassenacker 10, Rickenbach ZH, NB MFH",104,,1,,1,1,1,1,4,Guten Tag Frau&nbsp;Chopany<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,5850.000000,5850.000000,450.4500,6300.450000,0.0,0,True,False,2022-11-04,"Frau
+Zahra Chopany
+Gassenacker 10
+8545 Rickenbach
+Schweiz",0,"Frau
+Zahra Chopany
+Gassenacker 10
+8545 Rickenbach
+Schweiz",6,False,,,2023-05-03 09:17:02,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '450.4500'}]",
+57,AU-00057,"Planung S - Gassenacker 10, Rickenbach ZH, NB MFH",104,,1,,1,1,1,1,4,Guten Tag Frau&nbsp;Chopany<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,7000.000000,7000.000000,539.0000,7539.000000,0.0,0,True,False,2022-11-04,"Frau
+Zahra Chopany
+Gassenacker 10
+8545 Rickenbach
+Schweiz",0,"Frau
+Zahra Chopany
+Gassenacker 10
+8545 Rickenbach
+Schweiz",6,False,,,2023-05-03 09:17:07,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '539.0000'}]",
+58,AU-00058,"GEAK+ Bachtalstr.7, Ennetbaden, EFH",103,,1,72.0,1,1,1,1,4,Sehr geehrter Herr D&ouml;rfler Florian Dörfler<br /><br />Vielen Dank f&uuml;r das entgegengebrachte Vertrauen.<br />Nachfolgen erhalten Sie die Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,1225.000000,1065.900000,159.0761,1225.000000,0.0,0,False,False,2022-11-07,"Herr
+Florian Dörfler
+5408 Enntbaden
+Schweiz",0,"Herr
+Florian Dörfler
+5408 Enntbaden
+Schweiz",6,False,,,2023-05-03 09:17:55,622f308b87e2d83a3d360505,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '159.0761'}]",
+59,AU-00059,"GEAK+ Grossplatzstr.15, Pfaffhausen ZH, EFH",105,,1,73.0,1,1,1,1,4,Guten Tag Juraj Turina<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1100.000000,949.850000,150.1393,1100.000000,0.0,0,False,False,2022-11-10,"Herr
+Dr. med. Juraj Turina
+Grossplatzstrasse 15
+8118 Pfaffhausen
+Schweiz",0,"Herr
+Dr. med. Juraj Turina
+Grossplatzstrasse 15
+8118 Pfaffhausen
+Schweiz",6,False,,,2023-05-03 09:17:31,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '150.1393'}]",
+60,AU-00060,"GEAK+ Gehrenholz 6a, Zürich, EFH",106,,1,74.0,1,1,1,1,4,Guten Tag Bertrand Schott<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1400.000000,1228.400000,171.5877,1400.000000,0.0,0,False,False,2022-11-10,"Herr
+Bertrand Schott
+8055 Zürich
+Schweiz",0,"Herr
+Bertrand Schott
+8055 Zürich
+Schweiz",6,False,,,2023-05-03 09:17:45,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '171.5877'}]",
+61,AU-00061,"MP Whg 03-02 - MFH Tellstrasse 5+5a, 8570 Weinfelden",5,,1,35.0,1,1,1,1,4,Guten Tag AQUASANI GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,498.000000,498.000000,38.3460,536.350000,0.0,0,True,False,2022-11-10,"AQUASANI GmbH
+Jozef Kajtazi
+Wuhrstrasse 2
+8580 Amriswil
+Schweiz",0,"AQUASANI GmbH
+Jozef Kajtazi
+Wuhrstrasse 2
+8580 Amriswil
+Schweiz",6,False,,,2023-01-10 09:51:17,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '38.3460'}]",
+62,AU-00062,"Albisstr.9+10, Cham - Abmeldung Gas",4,20.0,1,75.0,1,1,1,1,4,Guten Tag Yvan Stalder<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,100.000000,100.000000,7.7000,107.700000,0.0,0,True,False,2022-11-15,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",15,False,,,2022-12-10 11:13:18,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '7.7000'}]",
+63,AU-00063,"MP Whg 01-04 - MFH Tellstrasse 5+5a, 8570 Weinfelden",5,,1,35.0,1,1,1,1,4,Guten Tag AQUASANI GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,539.500000,539.500000,41.5415,581.050000,0.01,0,True,False,2022-11-15,"AQUASANI GmbH
+Jozef Kajtazi
+Wuhrstrasse 2
+8580 Amriswil
+Schweiz",0,"AQUASANI GmbH
+Jozef Kajtazi
+Wuhrstrasse 2
+8580 Amriswil
+Schweiz",6,False,,,2022-11-18 11:01:24,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '41.5415'}]",
+64,AU-00064,"Ges/Pl - Hinterg.2 + Schmiedg.1, Fahrw.",4,20.0,1,76.0,1,1,1,1,4,Guten Tag Yvan Stalder<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1340.000000,1340.000000,103.1800,1443.200000,0.02,0,True,False,2022-11-17,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",15,False,,,2022-12-29 15:44:41,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '103.1800'}]",
+65,AU-00065,GEAK Plus Referat,107,108.0,1,,1,1,1,1,4,Guten Tag Jürg Studer<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1850.000000,1850.000000,142.4500,1992.450000,0.0,0,True,False,2022-11-18,"TECTON Management AG
+Herr Jürg Studer
+Industriestrasse 3
+5432 Neuenhof
+Schweiz",0,"TECTON Management AG
+Herr Jürg Studer
+Industriestrasse 3
+5432 Neuenhof
+Schweiz",6,False,,,2023-05-03 09:18:24,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '142.4500'}]",
+66,AU-00066,"IB_EFH - Birkenstr.2, Windisch, EFH",40,,1,78.0,1,1,1,1,4,Guten Tag Eidgenössische Finanzverwaltung EFV<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,450.000000,417.850000,32.1727,450.000000,0.0,0,False,False,2022-11-21,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",0,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",15,False,,,2023-03-13 10:19:57,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '32.1727'}]",
+67,AU-00067,"IB gMFH - Degermoosstr.9, Lengnau AG, REFH",40,,1,79.0,1,1,1,1,4,Guten Tag Eidgenössische Finanzverwaltung EFV<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1800.000000,1671.300000,128.6908,1800.000000,0.0,0,False,False,2022-11-21,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",0,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",15,False,,,2022-12-29 15:40:33,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '128.6908'}]",
+68,AU-00068,"Geak+ Höhacherweg 1, Volketswil ZH, 11-FH",110,,1,80.0,1,1,1,1,4,Guten Tag Ulrich Tschanz<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1650.000000,1424.800000,225.2089,1650.000000,0.0,0,False,False,2022-11-21,"Herr
+Ulrich Tschanz
+Höhacherweg 1
+8604 Volketswil
+Schweiz",0,"Herr
+Ulrich Tschanz
+Höhacherweg 1
+8604 Volketswil
+Schweiz",15,False,,,2023-02-08 17:51:11,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '225.2089'}]",
+69,AU-00069,"Gebäudeanalyse + Förderantrag - Bahnhofstr.44, Koblenz AG, Gewerbe",115,,1,82.0,1,1,1,1,4,Guten Tag Stoneweg Switzerland SA<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,9070.000000,9070.000000,698.3900,9768.400000,0.0,0,True,False,2022-12-08,"Stoneweg Switzerland SA
+Boulevard Georges-Favon 8
+1204 Genf
+Schweiz",0,"Stoneweg Switzerland SA
+Boulevard Georges-Favon 8
+1204 Genf
+Schweiz",15,False,,,2023-05-02 18:08:05,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '698.3900'}]",
+70,AU-00070,"384/201 WBD - Haldenbachstr.26, Zürich, San. MFH",95,,1,,1,1,1,1,4,Guten Tag Frei+Partner Haustechnikplanung AG<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,850.000000,850.000000,65.4500,915.450000,0.0,0,True,False,2022-12-08,"Frei+Partner Haustechnikplanung AG
+Schartenstrasse 41
+5400 Baden
+Schweiz",0,"Frei+Partner Haustechnikplanung AG
+Schartenstrasse 41
+5400 Baden
+Schweiz",15,False,,,2023-01-18 11:15:38,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '65.4500'}]",
+71,AU-00071,"EN SIA380/1 - Seeweg 1, Boniswil, MFH NB",4,20.0,1,85.0,1,1,1,1,4,Guten Tag Yvan Stalder<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,900.000000,900.000000,69.3000,969.300000,0.0,0,True,False,2022-12-12,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",15,False,,,2022-12-29 15:42:37,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '69.3000'}]",
+73,AU-00073,"IB gMFH - Alte Aescherstr.27, Arni AG, 4-FH",40,,1,86.0,1,1,1,1,4,Guten Tag Eidgenössische Finanzverwaltung EFV<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1800.000000,1671.300000,128.6908,1800.000000,0.0,0,False,False,2022-12-23,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",0,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",15,False,,,2023-01-24 11:12:58,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '128.6908'}]",
+74,AU-00074,"Ges- Oberebersol 49, Hohenrain LU, Scheuber",4,,1,87.0,1,1,1,1,4,Guten Tag Herr Stalder<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,130.000000,130.000000,10.0100,140.000000,-0.01,0,True,False,2022-12-23,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",15,False,,,2023-01-18 13:37:26,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '10.0100'}]",
+75,AU-00075,"GEAK®Plus - Mellingerstr.1, Baden",124,,1,88.0,1,1,1,1,4,Guten Tag PRIVERA AG<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,3950.000000,3560.350000,389.6472,3950.000000,0.0,0,False,False,2023-01-16,"PRIVERA AG
+Kreditorenverarbeitung
+Postfach 1207
+6341 Baar ",0,"PRIVERA AG
+Kreditorenverarbeitung
+Postfach 1207
+6341 Baar ",15,False,,,2023-04-21 10:05:21,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '389.6472'}]",
+76,AU-00076,"GEAK®Plus - Stadtturmstr.10, Baden",124,,1,89.0,1,1,1,1,4,Guten Tag PRIVERA AG<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,3150.000000,2817.550000,332.4513,3150.000000,0.0,0,False,False,2023-01-16,"PRIVERA AG
+Täfernstrasse 16
+5405 Dättwil
+Schweiz",0,"PRIVERA AG
+Täfernstrasse 16
+5405 Dättwil
+Schweiz",15,False,,,2023-04-13 18:52:06,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '332.4513'}]",
+77,AU-00077,"EN - Bäumliweg, Leibstadt, EFH",111,,1,90.0,1,1,1,1,4,Sehr geehrte Damen und Herren<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,1050.000000,1050.000000,80.8500,1130.850000,0.0,0,True,False,2023-01-20,"planerkiste architektur gmbh
+Hauptstrasse 23
+5024 Küttigen
+Schweiz",0,"planerkiste architektur gmbh
+Hauptstrasse 23
+5024 Küttigen
+Schweiz",15,False,,,2023-04-21 10:25:10,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '80.8500'}]",
+79,AU-00079,"GEAK Plus, Brunnenwiesenstrasse 1b, Uster",125,,1,92.0,1,1,1,1,4,Guten Tag Adrijana Ackermann<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,300.000000,121.250000,178.7372,300.000000,0.0,0,False,False,2023-01-20,"Frau
+Adrijana Ackermann
+Brunnenwiesenstrasse 1b
+8610 Uster
+Schweiz",0,"Frau
+Adrijana Ackermann
+Brunnenwiesenstrasse 1b
+8610 Uster
+Schweiz",6,False,,,2023-03-31 16:21:44,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '178.7372'}]",
+80,AU-00080,"GEAK Plus, Im Seehof 21, Uster",126,,1,,1,1,1,1,4,Guten Tag Andreas Meier<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,700.000000,492.650000,207.3352,700.000000,0.0,0,False,False,2023-01-26,"Herr
+Andreas Meier
+Im Seehof 21
+8610 Uster
+Schweiz",0,"Herr
+Andreas Meier
+Im Seehof 21
+8610 Uster
+Schweiz",15,False,,,2023-05-05 15:05:04,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '207.3352'}]",
+81,AU-00081,"EN - Bahnhofstr.44, Koblenz, GA",115,,1,82.0,1,1,1,1,4,Guten Tag Stoneweg Switzerland SA<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,750.000000,750.000000,57.7500,807.750000,0.0,0,True,False,2023-01-30,"Stoneweg Switzerland SA
+Boulevard Georges-Favon 8
+1204 Genf
+Schweiz",0,"Stoneweg Switzerland SA
+Boulevard Georges-Favon 8
+1204 Genf
+Schweiz",6,False,,,2023-02-16 15:32:56,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '57.7500'}]",
+82,AU-00082,"Devis - Fischweg 3, Meisterschw.",4,,1,93.0,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,3100.000000,3100.000000,238.7000,3338.700000,0.0,0,True,False,2023-02-01,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",15,False,,,2023-02-18 15:19:43,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '238.7000'}]",
+83,AU-00083,"Geak+, Stockfeldstrasse 2, Mülligen AG",128,129.0,1,,1,1,1,1,4,Guten Tag Jürg Steigmeier<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1600.000000,1378.350000,221.6342,1600.000000,0.0,0,False,False,2023-02-02,"Steigmeier Akustik + Bauphysik GmbH
+Herr Jürg Steigmeier
+Rütistrasse 3a
+5400 Baden
+Schweiz",0,"Steigmeier Akustik + Bauphysik GmbH
+Herr Jürg Steigmeier
+Rütistrasse 3a
+5400 Baden
+Schweiz",15,False,,,2023-02-22 19:51:13,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '221.6342'}]",
+84,AU-00084,"Ges - Bahnhofstr.30, Boswil, EFH",4,,1,94.0,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,740.000000,740.000000,56.9800,797.000000,0.02,0,True,False,2023-02-07,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",15,False,,,2023-05-05 15:48:21,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '56.9800'}]",
+85,AU-00085,"Ges - Im Stäffetli 9c, Hermetschw., EFH",4,,1,95.0,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,680.000000,680.000000,52.3600,732.350000,-0.01,0,True,False,2023-02-07,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",15,False,,,2023-05-05 15:46:57,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '52.3600'}]",
+87,AU-00087,"EN - Lindenmattstr.16, Meisters., RTA Industrie",4,,1,97.0,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,900.000000,900.000000,69.3000,969.300000,0.0,0,True,False,2023-02-10,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",15,False,,,2023-02-22 09:26:44,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '69.3000'}]",
+88,AU-00088,"P - Oberebersol 49, Scheuber",4,,1,98.0,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,6800.000000,6800.000000,523.6000,7323.600000,0.0,0,True,False,2023-02-10,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",5,False,,,2023-05-05 15:51:57,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '523.6000'}]",
+89,AU-00089,"EN - Jurastr. Sarmenstorf, 3 Häuser",4,20.0,1,91.0,1,1,1,1,4,Guten Tag Yvan Stalder<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,2800.000000,2800.000000,215.6000,3015.600000,0.0,0,True,False,2023-02-22,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",6,False,,,2023-02-22 09:24:09,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '215.6000'}]",
+90,AU-00090,"Geak+, Sihlquai 16/Zürichstr.23, Adliswil ZH, 2 MFH",128,,1,,1,1,1,1,4,Guten Tag Steigmeier Akustik + Bauphysik GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,4250.000000,3731.650000,518.3380,4250.000000,0.0,0,False,False,2023-03-01,"Steigmeier Akustik + Bauphysik GmbH
+Rütistrasse 3a
+5400 Baden
+Schweiz",0,"Steigmeier Akustik + Bauphysik GmbH
+Rütistrasse 3a
+5400 Baden
+Schweiz",15,False,,,2023-03-23 11:53:41,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '518.3380'}]",
+91,AU-00091,"Gebäudeanalyse - Güterstrasse 11, Spreitenbach",137,138.0,1,,1,1,1,1,4,Guten Tag Jürgen Ravener<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,5300.000000,5300.000000,523.6000,5823.600000,0.0,0,True,False,2023-03-03,"Logo Bau Ravener
+Herr Jürgen Ravener
+Schartenstrasse 41
+5400 Baden
+Schweiz",0,"Logo Bau Ravener
+Herr Jürgen Ravener
+Schartenstrasse 41
+5400 Baden
+Schweiz",15,False,,,2023-04-25 15:45:22,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '523.6000'}]",
+92,AU-00092,"Gebäudeanalyse - Spitalstrasse 10, 5080 Laufenburg",135,136.0,1,,1,1,1,1,4,Guten Tag David Burkhard<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,8100.000000,8100.000000,623.7000,8723.700000,0.0,0,True,False,2023-03-03,"Steiger Architekten
+Herr David Burkhard
+Mellingerstrasse 2
+5400 Baden
+Schweiz",0,"Steiger Architekten
+Herr David Burkhard
+Mellingerstrasse 2
+5400 Baden
+Schweiz",15,False,,,2023-05-02 17:42:32,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '623.7000'}]",
+93,AU-00093,"IB gMFH - Hertensteinstr.70, Ennetbaden",40,,1,99.0,1,1,1,1,4,Guten Tag Eidgenössische Finanzverwaltung EFV<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1800.000000,1671.300000,128.6908,1800.000000,0.0,0,False,False,2023-03-08,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",0,"Eidgenössische Finanzverwaltung EFV
+Bundesgasse 3
+3003 Bern
+Schweiz",15,False,,,2023-03-13 10:18:30,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '128.6908'}]",
+94,AU-00094,"Geak, Gotthardstrasse 26, Zug, Büro",140,141.0,1,,1,1,1,1,4,Guten Tag Melchior Studer<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,2380.000000,2380.000000,183.2600,2563.250000,-0.01,0,True,False,2023-03-15,"Pala Real Estate GmbH
+Herr Melchior Studer
+Gotthardstrasse 26
+6300 Zug
+Schweiz",0,"Pala Real Estate GmbH
+Herr Melchior Studer
+Gotthardstrasse 26
+6300 Zug
+Schweiz",6,False,,,2023-05-16 16:48:10,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '183.2600'}]",
+95,AU-00095,"Ges, G+ Widenplatz 12, Frick, AKB, Büro",144,,1,100.0,1,1,1,1,4,Guten Tag Aargauische Kantonalbank<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1510.000000,1402.050000,107.9573,1510.000000,0.0,0,False,False,2023-03-20,"Aargauische Kantonalbank
+Widenplatz 12
+5070 Frick
+Schweiz",0,"Aargauische Kantonalbank
+Widenplatz 12
+5070 Frick
+Schweiz",6,False,,,2023-05-03 09:16:31,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '107.9573'}]",
+96,AU-00096,"Gebäudeanalyse - Bahnhofstrasse 40/42, Baden, Gewerbe",148,149.0,1,,1,1,1,1,4,Guten Tag Andreas Hüsler<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,7680.000000,7680.000000,591.3600,8271.350000,0.0,0,True,False,2023-03-29,"Privera AG
+Kreditorenverarbeitung
+Postfach 1207
+6341 Baar",0,"Privera AG
+Kreditorenverarbeitung
+Postfach 1207
+6341 Baar",15,False,,,2023-05-05 15:36:58,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '591.3600'}]",
+98,AU-00098,"Geak+, Badstr.17, Baden, Vk/Bü",128,,1,,1,1,1,1,4,Guten Tag Steigmeier Akustik + Bauphysik GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,3350.000000,3003.250000,346.7502,3350.000000,0.0,0,False,False,2023-03-31,"Steigmeier Akustik + Bauphysik GmbH
+Rütistrasse 3a
+5400 Baden
+Schweiz",0,"Steigmeier Akustik + Bauphysik GmbH
+Rütistrasse 3a
+5400 Baden
+Schweiz",6,False,,,2023-06-08 12:09:44,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '346.7502'}]",
+99,AU-00099,"GEAK+ Gipsstr.39, Ehrendingen AG, EFH Umbau",151,,1,,1,1,1,1,4,Sehr geehrter Herr Frei<br />Sehr geehrte Frau Gr&uuml;tter<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,1730.000000,1458.100000,185.4220,1643.500000,0.0,0,False,False,2023-04-03,"Herr & Frau
+Michel Frei + Isabelle Grütter
+Im First 6
+5420 Ehrendingen
+Schweiz",0,"Herr & Frau
+Michel Frei + Isabelle Grütter
+Im First 6
+5420 Ehrendingen
+Schweiz",15,False,,,2023-06-02 19:00:05,622f308b87e2d83a3d360505,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '185.4220'}]",
+100,AU-00100,"EN - Töndler 5, Gränichen AG, MFH+Gew",146,,1,,1,1,1,1,4,Sehr geehrter Herr Krasniqi<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,1850.000000,1850.000000,142.4500,1992.450000,0.0,0,True,False,2023-04-04,"TOKA AG
+Architektur & Immobilien
+Kushtrim Krasniqi
+Riedstrasse 3
+8953 Dietikon
+Schweiz",0,"TOKA AG
+Architektur & Immobilien
+Kushtrim Krasniqi
+Riedstrasse 3
+8953 Dietikon
+Schweiz",15,False,,,2023-04-21 09:45:35,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '142.4500'}]",
+101,AU-00101,"G+ Artherstr.132, Oberwil b. Zug, EFH",10,,1,,1,1,1,1,4,Guten Tag Stadt Zug<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,2600.000000,2414.100000,185.8867,2600.000000,0.0,0,False,False,2023-04-13,"Stadt Zug
+c/o Finanzdepartement Immobilien
+Gubelstrasse 22
+6301 Zug
+Schweiz",0,"Stadt Zug
+c/o Finanzdepartement Immobilien
+Gubelstrasse 22
+6301 Zug
+Schweiz",15,False,,,2023-06-20 12:19:06,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '185.8867'}]",
+102,AU-00102,"GEAK - Bubikonerstrasse 43a, 8635 Dürnten",155,,1,,1,1,1,1,4,Sehr geehrter Herr K&uuml;nzi<br /><br />Vielen Dank f&uuml;r die Auftragserteilung und das entgegengebrachte Vertrauen. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,2610.000000,2610.000000,200.9700,2810.950000,-0.02,0,True,False,2023-04-17,"Herr
+Walter Künzi
+Walderstrasse 16a
+8630 Rüti
+Schweiz",0,"Herr
+Walter Künzi
+Walderstrasse 16a
+8630 Rüti
+Schweiz",15,False,,,2023-05-24 16:06:22,622f308b87e2d83a3d360505,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '200.9700'}]",
+103,AU-00103,"EN - St. Niklausgasse 17, Merzlingen, 2-FH",157,,1,,1,1,1,1,4,Sehr geehrter Herr D&uuml;nki<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,1830.000000,1830.000000,140.9100,1970.900000,-0.01,0,True,False,2023-04-29,"evolaris aviation gmbh
+Steven Dünki
+Dr.-Schneider-Strasse 92
+2560 Nidau
+Schweiz",0,"evolaris aviation gmbh
+Steven Dünki
+Dr.-Schneider-Strasse 92
+2560 Nidau
+Schweiz",15,False,,,2023-05-09 10:23:50,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '140.9100'}]",
+104,AU-00104,"Geak+, Buchenweg 9, Würenlos",161,,1,,1,1,1,1,4,Guten Tag Eric Moesner<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,2100.000000,1878.350000,221.6342,2100.000000,0.0,0,False,False,2023-05-08,"Herr
+Eric Moesner
+Buchenweg 9
+5436 Würenlos
+Schweiz",0,"Herr
+Eric Moesner
+Buchenweg 9
+5436 Würenlos
+Schweiz",5,False,,,2023-05-22 20:16:55,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '221.6342'}]",
+105,AU-00105,"FB Geak+, Buchenweg 9, Würenlos",26,,1,,1,1,1,1,4,"Guten Tag Departement Bau, Verkehr, Umwelt<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.",Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1000.000000,1000.000000,0.0000,1000.000000,0.0,0,True,False,2023-05-08,"Departement Bau, Verkehr, Umwelt
+Zentrale Rechnungsstelle
+Postfach 2504
+5001 Aarau
+Schweiz",0,"Departement Bau, Verkehr, Umwelt
+Zentrale Rechnungsstelle
+Postfach 2504
+5001 Aarau
+Schweiz",5,False,,,2023-05-22 20:17:40,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}]",
+106,AU-00106,"Geak+ Witikonerstrasse 172, MFH",162,,1,,1,1,1,1,4,Guten Tag Florian Hew<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1650.000000,1424.800000,225.2089,1650.000000,0.0,0,False,False,2023-05-12,"Herr
+Florian Hew
+Feldgüetliweg 124
+8706 Meilen
+Schweiz",0,"Herr
+Florian Hew
+Feldgüetliweg 124
+8706 Meilen
+Schweiz",6,False,,,2023-05-17 08:30:27,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '225.2089'}]",
+107,AU-00107,"FB Geak+, Witikonerstrasse 172, Zürich",52,,1,,1,1,1,1,4,"Guten Tag Amt für Abfall, Wasser, Energie, Luft<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.",Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1500.000000,1500.000000,0.0000,1500.000000,0.0,0,True,False,2023-05-12,"Amt für Abfall, Wasser, Energie, Luft
+Sektion Energiewirtschaft
+Stampfenbachstrasse 12
+8090 Zürich
+Schweiz",0,"Amt für Abfall, Wasser, Energie, Luft
+Sektion Energiewirtschaft
+Stampfenbachstrasse 12
+8090 Zürich
+Schweiz",15,False,,,2023-05-09 11:02:16,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}]",
+108,AU-00108,"Geak+, Willadingweg 30/32, Bern, 2 MFH",163,,1,,1,1,1,1,4,Guten Tag Frau Menzi<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,4000.000000,3714.000000,285.9796,4000.000000,0.0,0,False,False,2023-05-11,"AWT Treuhand & Verwaltungen AG
+Frau Yvonne Menzi
+Kirchenfeldstrasse 9
+3250 Lyss
+Schweiz",0,"AWT Treuhand & Verwaltungen AG
+Frau Yvonne Menzi
+Kirchenfeldstrasse 9
+3250 Lyss
+Schweiz",5,False,,,2023-05-11 18:02:25,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '285.9796'}]",
+109,AU-00109,"GEAK®Plus - Schöntal 4, Endingen",165,166.0,1,,1,1,1,1,4,Guten Tag David Sidler<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,2200.000000,1935.450000,264.5311,2200.000000,0.0,0,False,False,2023-05-22,"Sidler Architekten AG
+Herr David Sidler
+Bahnhofstrasse 8
+5400 Baden
+Schweiz",0,"Sidler Architekten AG
+Herr David Sidler
+Bahnhofstrasse 8
+5400 Baden
+Schweiz",15,False,,,2023-06-29 11:09:32,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '264.5311'}]",
+110,AU-00110,"FB Geak+, Schöntal 4, Endingen",26,,1,,1,1,1,1,4,"Guten Tag Departement Bau, Verkehr, Umwelt<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.",Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,1500.000000,1500.000000,0.0000,1500.000000,0.0,0,True,False,2023-05-22,"Departement Bau, Verkehr, Umwelt
+Zentrale Rechnungsstelle
+Postfach 2504
+5001 Aarau
+Schweiz",0,"Departement Bau, Verkehr, Umwelt
+Zentrale Rechnungsstelle
+Postfach 2504
+5001 Aarau
+Schweiz",15,False,,,2023-06-29 11:11:05,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}]",
+111,AU-00111,"EN - Im Reich 5, Gebenstorf, EFH",146,156.0,1,,1,1,1,1,4,Guten Tag Kushtrim Krasniqi<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,1300.000000,1207.050000,92.9434,1300.000000,0.0,0,False,False,2023-05-26,"Dullovi Bau AG
+Herr Nusret Dullovi
+Grenzstrasse 9a
+5412 Gebenstorf
+Schweiz",0,"Dullovi Bau AG
+Herr Nusret Dullovi
+Grenzstrasse 9a
+5412 Gebenstorf
+Schweiz",15,False,,,2023-06-09 17:23:47,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '92.9434'}]",
+112,AU-00112,"EN - Oberer Rainweg 1, Frick, 2x EFH",146,156.0,1,,1,1,1,1,4,Guten Tag Kushtrim Krasniqi<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,1300.000000,1207.050000,92.9434,1300.000000,0.0,0,False,False,2023-05-26,"Dullovi Bau AG
+Herr Nusret Dullovi
+Grenzstrasse 9a
+5412 Gebenstorf
+Schweiz",0,"Dullovi Bau AG
+Herr Nusret Dullovi
+Grenzstrasse 9a
+5412 Gebenstorf
+Schweiz",5,False,,,2023-05-26 14:08:00,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '92.9434'}]",
+113,AU-00113,"EN - Talstr.10, Veltheim AG, MFH",146,156.0,1,,1,1,1,1,4,Guten Tag Kushtrim Krasniqi<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,3000.000000,2785.500000,214.4847,3000.000000,0.0,0,False,False,2023-05-26,"Dullovi Bau AG
+Herr Nusret Dullovi
+Grenzstrasse 9a
+5412 Gebenstorf
+Schweiz",0,"Dullovi Bau AG
+Herr Nusret Dullovi
+Grenzstrasse 9a
+5412 Gebenstorf
+Schweiz",15,False,,,2023-06-20 12:09:25,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '214.4847'}]",
+114,AU-00114,"FA Heizung - Widenplatz 12, Frick, AKB",144,,1,,1,1,1,1,4,Sehr geehrte Damen und Herren<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,920.000000,854.200000,65.7753,920.000000,0.0,0,False,False,2023-05-26,"Aargauische Kantonalbank
+Widenplatz 12
+5070 Frick
+Schweiz",0,"Aargauische Kantonalbank
+Widenplatz 12
+5070 Frick
+Schweiz",15,False,,,2023-06-07 14:16:01,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '65.7753'}]",
+115,AU-00115,"G+ Schulstr.194, Schwaderloch, EFH",167,,1,,1,1,1,1,4,Sehr geehrte Damen und Herren<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,2100.000000,1878.350000,221.6342,2100.000000,0.0,0,False,False,2023-05-30,"Dan und Marcia Apostu
+Eisenbahnweg 85
+4125 Riehen
+Schweiz",0,"Dan und Marcia Apostu
+Eisenbahnweg 85
+4125 Riehen
+Schweiz",15,False,,,2023-06-15 18:46:50,622f308b87e2d83a3d360505,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '221.6342'}]",
+116,AU-00116,"FB Geak+, Schulstr.139, Schwaderloch, EFH",26,,1,,1,1,1,1,4,"Guten Tag Departement Bau, Verkehr, Umwelt<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.",Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,1000.000000,1000.000000,0.0000,1000.000000,0.0,0,True,False,2023-05-30,"Departement Bau, Verkehr, Umwelt
+Zentrale Rechnungsstelle
+Postfach 2504
+5001 Aarau
+Schweiz",0,"Departement Bau, Verkehr, Umwelt
+Zentrale Rechnungsstelle
+Postfach 2504
+5001 Aarau
+Schweiz",15,False,,,2023-06-20 12:07:17,6228622cf9f3e7797d45edb2,"[{'percentage': '0.00', 'value': '0.0000'}]",
+117,AU-00117,"P - Oberebersol 49, Parzelle 1675",4,,1,,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,6100.000000,6100.000000,469.7000,6569.700000,0.0,0,True,False,2023-05-30,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",5,False,,,2023-05-30 19:30:05,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '469.7000'}]",
+118,AU-00118,"Ges - Lindenbergstr.1+3, Bettwil",4,20.0,1,,1,1,1,1,4,Guten Tag Yvan Stalder<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,380.000000,380.000000,29.2600,409.250000,-0.01,0,True,False,2023-05-30,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Herr Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",15,False,,,2023-06-02 12:05:35,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '29.2600'}]",
+119,AU-00119,"Ges - Fahrweidstr.47, Muri",4,,1,,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,680.000000,680.000000,52.3600,732.350000,-0.01,0,True,False,2023-05-30,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",15,False,,,2023-06-02 12:07:08,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '52.3600'}]",
+120,AU-00120,"Ges - Unterdorfstr.3, Benzenschwil",4,,1,,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,680.000000,680.000000,52.3600,732.350000,-0.01,0,True,False,2023-05-30,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",15,False,,,2023-06-02 12:08:14,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '52.3600'}]",
+121,AU-00121,"Devis S - Hertenstr., Elgg",5,,1,,1,1,1,1,4,Guten Tag AQUASANI GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,600.000000,445.700000,34.3175,480.000000,0.0,0,False,False,2023-05-31,"AQUASANI GmbH
+Jozef Kajtazi
+Wuhrstrasse 2
+8580 Amriswil
+Schweiz",0,"AQUASANI GmbH
+Jozef Kajtazi
+Wuhrstrasse 2
+8580 Amriswil
+Schweiz",15,False,,,2023-05-31 15:34:11,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '34.3175'}]",
+122,AU-00122,"G+, Sandbuckstrasse 6, Schneisingen, EFH",169,170.0,1,,1,1,1,1,4,Sehr geehrter Herr Berisha<br /><br />Danke f&uuml;r Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbest&auml;tigung.,Sie haben Fragen? Melden Sie sich bei uns.<br /><br />Freundliche Gr&uuml;sse<br />Kevin Imhoff,1600.000000,1414.100000,185.8867,1600.000000,0.0,0,False,False,2023-06-06,"MiKo Gmbh
+Herr Bujar Berisha
+Schönaustrasse 59
+5430 Wettingen
+Schweiz",0,"MiKo Gmbh
+Herr Bujar Berisha
+Schönaustrasse 59
+5430 Wettingen
+Schweiz",5,False,,,2023-06-06 10:29:55,622f308b87e2d83a3d360505,"[{'percentage': '0.00', 'value': '0.0000'}, {'percentage': '7.70', 'value': '185.8867'}]",
+123,AU-00123,"AP - H/L - Gassenacker 10, Rickenbach, MFH",104,,1,,1,1,1,1,4,Guten Tag Zahra Chopany<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,4350.000000,4350.000000,334.9500,4684.950000,0.0,0,True,False,2023-06-29,"Frau
+Zahra Chopany
+Gassenacker 10
+8545 Rickenbach
+Schweiz",0,"Frau
+Zahra Chopany
+Gassenacker 10
+8545 Rickenbach
+Schweiz",5,False,,,2023-06-29 09:26:57,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '334.9500'}]",
+124,AU-00124,"AP - S - Gassenacker 10, Rickenbach, MFH",104,,1,,1,1,1,1,4,Guten Tag Zahra Chopany<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,5800.000000,5800.000000,446.6000,6246.600000,0.0,0,True,False,2023-06-29,"Frau
+Zahra Chopany
+Gassenacker 10
+8545 Rickenbach
+Schweiz",0,"Frau
+Zahra Chopany
+Gassenacker 10
+8545 Rickenbach
+Schweiz",5,False,,,2023-06-29 09:27:01,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '446.6000'}]",

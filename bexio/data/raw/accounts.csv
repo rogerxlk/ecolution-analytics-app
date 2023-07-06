@@ -1,0 +1,148 @@
+id,uuid,account_no,name,account_type,tax_id,fibu_account_group_id,is_active,is_locked
+89,43cb96c0-c8ed-4a06-ae00-54ca004bc0f5,9901,Saldoübernahme,5,,68,True,True
+90,d0eea4fc-aadc-46d4-8cb0-346a934ca414,9900,Korrekturen,5,,68,True,True
+91,ac7cdfa1-2b30-4518-9d82-889225544f6c,9200,Jahresgewinn oder Jahresverlust,5,,68,True,True
+92,45ce0bb0-fee0-441c-9a05-08407a4f5e12,9101,Schlussbilanz,5,,68,True,True
+93,eab94e67-a570-4085-929f-7465752a2611,9100,Eröffnungsbilanz,5,,68,True,True
+94,d86716a8-69a0-4a3e-9045-d2a25b389866,9000,Erfolgsrechnung,5,,68,True,True
+95,100e006a-8a8d-4a70-95d1-7e2cbf635ce1,6999,Währungsgewinne,1,,62,True,True
+96,2666b5f5-f280-410e-8174-5bb1355cac9a,6949,Währungsverluste,2,,63,True,True
+97,09b7dcde-a71d-4d03-b780-4609943f4cd7,6945,Rundungsdifferenz,2,,63,True,True
+98,e4ae08f8-e120-4051-99b1-62fe185b1195,4900,Skonti,2,22.0,55,True,True
+99,cd0f754d-5a38-4f19-a47e-99975dca3f4b,4200,Einkauf Handelsware,2,22.0,57,True,True
+100,6216986f-502a-4790-a762-3175d0411d49,3800,Skonti,1,16.0,50,True,True
+101,5b0b8195-c17e-4971-95c2-4be6c8e8bacc,3200,Handelserlös,1,16.0,52,True,True
+102,a7a41449-04a7-4c00-9b2c-d41303851c20,2203,Bezugsteuer,4,,46,True,True
+103,abdfdca8-75ba-494e-b68e-8b76d02759a1,2202,Umsatzsteuerausgleich Abrechnungsmethode,4,,46,True,True
+104,832e5829-b18c-43cd-835c-391a01ff1141,2201,Abrechnungskonto MWST,4,,46,True,True
+105,62c45679-ff96-49dc-b325-98f5d7a9064a,2200,Geschuldete Mehrwertsteuer (Umsatzsteuer),4,,46,True,True
+106,2fcbe03d-0ed5-4e65-8414-ed616f3ca5b8,2030,Erhaltene Anzahlungen von Dritten,4,,47,True,True
+107,a580512b-cbb0-45f2-904c-26fed7412262,2000,Verbindlichkeiten aus Lieferungen und Leistungen,4,,47,True,True
+108,f4ab7ab6-7fe1-4d25-8bf7-508045ee81c0,1174,Vorsteuerkorrektur,3,,41,True,True
+109,30c58691-72a8-4e4c-9cc3-1de6191afa83,1173,Vorsteuerkürzung,3,,41,True,True
+110,dbecd021-d310-415b-8ef5-ef9389e716d9,1172,Vorsteuerausgleich Abrechnungsmethode,3,,41,True,True
+111,fcc68b77-4c75-44bc-9e10-1ae9e946841a,1171,"Vorsteuer Inv., übr. Betriebsaufwand Kl.1 5-8",3,,41,True,True
+112,51e832d3-92c1-4c09-9e47-a114e615fdf7,1170,"Vorsteuer Material, Waren, DL - Kl. 4",3,,41,True,True
+113,c3db67b5-c7c6-46ff-993b-1784c321c24e,1100,Forderungen aus Lieferungen und Leistungen,3,,42,True,True
+114,b439a93a-5982-4235-a2bc-f29043aa62a4,1029,Bank,3,,43,True,True
+115,92cda740-45f2-46e3-8fcc-3e8dcf34e831,1001,PostFinance,3,,43,True,False
+116,bd4acb9a-bf3f-420d-abaa-22f58c21c839,1090,Transferkonto,3,,71,True,False
+117,213f22ca-823e-4b3e-8693-a7a0630c78fd,1091,Lohndurchlaufkonto,3,,71,True,False
+118,d50b17b7-c7c5-4553-b77b-3fdcbce32ad9,1099,Unklare Beträge,3,,71,True,False
+119,61673214-3cb8-462f-843a-4e80a25829fd,1109,Wertberichtigung Forderungen,3,,42,True,False
+120,c795a784-20b0-4389-85d6-e252b2e60f04,1130,Vorauszahlungen an Lieferanten,3,,42,True,False
+121,3a3a4f6c-95b8-4c8f-8c37-6308aec223db,1140,Darlehen,3,,72,True,False
+122,1e98d5ef-3206-4899-a3ca-dabf8e983e2f,1175,Abrechnungskonto MWST,3,,41,True,False
+123,c13d0941-8294-457c-a9b1-88b467cd9a6a,1176,Verrechnungssteuer,3,,41,True,False
+124,2ac17df1-63d9-41d0-af3f-6db905c7faf1,1183,Kontokorrent Unfallversicherung,3,,73,True,False
+125,d9d39ba9-6a07-4d0a-b512-53311fc86f1f,1184,Kontokorrent Krankentaggeldversicherung,3,,73,True,False
+126,140d8ad8-10ba-466e-9b0c-fe773818f647,1188,Kontokorrent Quellensteuer,3,,73,True,False
+127,da795e37-3c14-4393-b4e2-45484d916b4c,1200,Lager Handelsware,3,,74,True,False
+128,23fc1cb5-3be8-48fa-a6ac-0c3a5b6ca0b5,1280,Nicht fakturierte Dienstleistungen,3,,74,True,False
+129,12d2140b-10c8-4883-8dac-341a1b54c093,1300,Aktive Rechnungsabgrenzungen,3,,75,True,False
+130,b1f8c97d-3bf6-4e75-816c-ef8ec665b7ac,1500,Maschinen und Apparate,3,24.0,70,True,False
+131,02ffae94-7f81-4dd7-b328-47877cef3bc8,1510,Mobiliar und Einrichtungen,3,24.0,70,True,False
+132,16073886-3000-4492-850b-2235ed444f35,1520,Informatik,3,24.0,70,True,False
+133,45c49277-5fd1-4eb8-bd71-a54666f41ee9,1530,Fahrzeuge,3,24.0,70,True,False
+134,f18e735b-f73f-4d60-8242-d89517223286,2100,Kontokorrent Kevin Imhoff,4,,76,True,False
+135,26cfdc00-2b98-4e53-b794-e9463b2e4b9d,2190,Kreditkarte,4,,76,True,False
+136,81697d25-21b0-48b0-8a29-403e5bcaa0bd,2270,Kontokorrent Vorsorgeeinrichtung,4,,77,True,False
+137,397862ac-0a7c-41de-acbc-f3dbecb93cd5,2271,"Kontokorrent AHV, IV, EO, ALV",4,,77,True,False
+138,79959280-afcc-4301-abf1-e9d27319d5a4,2272,Kontokorrent FAK,4,,77,True,False
+139,53570815-3703-44a9-a613-6f65c99f4beb,2273,Kontokorrent Unfallversicherung,4,,77,True,False
+140,0427934c-9278-4c09-973e-768eeb58a747,2274,Kontokorrent Krankentaggeld,4,,77,True,False
+141,17e5d692-ce07-44a0-9bf6-e848885125cf,2279,Kontokorrent Quellensteuer,4,,77,True,False
+142,89505cff-d138-4155-948c-91cbc3ae5e6e,2300,Passive Rechnungsabgrenzungen,4,,78,True,False
+143,49781882-aef4-41b2-aa17-cf77fec3d364,2400,Darlehen,4,,80,True,False
+144,f0044767-300e-43d4-a6a9-61a146019ad4,2560,Verbindlichkeiten Aktionär / Gesellschafter,4,,81,True,False
+145,052758e0-87b8-4b13-840b-2fd58c1a6b6a,2800,Kapital,4,,83,True,False
+146,fe7e1d56-a7c5-4063-85cd-db1878b817c5,2950,Gesetzliche Gewinnreserve,4,,84,True,False
+147,7f5dfe83-211e-4fcd-a099-299433599e42,2970,Gewinnvortrag oder Verlustvortrag,4,,84,True,False
+148,3694416d-d3b7-460d-8add-2898bae34f9e,2979,Jahresgewinn oder Jahresverlust,4,,84,True,False
+149,a09d3254-692c-477e-b8d7-c337d0f02894,3000,Bruttoerlös Erzeugnis,1,16.0,86,True,False
+150,4cd79cd0-a435-4ec1-9f07-bcd2aaeb957a,3400,Energieberatung,1,16.0,88,True,False
+151,b1ebe7ec-30e1-4967-b7e1-9edaa38e0cc2,3600,Gebühren Lieferungen und Leistungen,1,16.0,90,True,False
+152,4ca9e13d-858f-43eb-911c-269858eb60f3,3680,Sonstige Erlöse,1,16.0,91,True,False
+153,cd9526e7-1e4d-49d0-9b82-68f052206641,3801,Rabatte und Preisnachlässe,1,16.0,50,True,False
+154,f898f483-b80b-47b2-96da-f251f5b195b9,3802,Rückvergütungen,1,16.0,50,True,False
+155,3fcd1bad-6803-4ab6-8f1b-bccb55dfdf75,3803,Provision an Dritte,1,22.0,50,True,False
+156,e8ce7933-430e-4eca-9e39-ca5beed9c937,3804,Inkassospesen,1,,50,True,False
+157,8c71a05b-1b38-435b-b03c-64ada054f037,3805,Verluste / Wertberichtigung Forderungen,1,,50,True,False
+158,440a8f8e-dc15-4a5c-b3a0-b79ad22a6257,3806,Kursdifferenzen,1,,50,True,False
+159,5a256294-1cd2-44bf-afc7-27748deaf200,3940,Bestandsänderungen nicht fakturierte Dienstleistungen,1,,93,True,False
+160,df60d0d5-edd6-4ead-9ff9-212050d04123,4000,Materialeinkauf Erzeugnis,2,22.0,94,True,False
+161,561916dc-d0df-4f1e-858c-113ee4a48025,4208,Bestandesänderungen,2,,57,True,False
+162,723da89a-b2a1-4785-8eb1-d5dc89326d69,4270,Eingangsfrachten,2,22.0,95,True,False
+163,7096be74-c190-4f76-bc40-dc47a7205888,4400,Energieberatung,2,22.0,97,True,False
+164,c05987b0-75b4-4650-8a0d-66d2de0999bd,4620,Übriger Handelswarenaufwand,2,22.0,99,True,False
+165,8f28a046-0312-4c9a-a652-f2b1ea45a3d8,4640,Übriger Aufwand für Dienstleistungen,2,22.0,100,True,False
+166,e8faee78-8072-42b8-ad55-17f8176f72af,4650,Aufwand für Verpackungen,2,22.0,101,True,False
+167,8c223bf6-1eff-4cd2-9ffe-e4523f2144a0,4660,Veränderung der Garantierückstellungen,2,,102,True,False
+168,b82d0bef-80d8-4dda-90eb-f456ae1cd285,4700,Eingangsfrachten und Zoll,2,,103,True,False
+169,5f6b2df6-7d47-4ea4-ad44-24a33986a226,4800,Bestandsänderung Handelswaren,2,,105,True,False
+170,a17abe6f-9ca4-4ae1-ba9f-3138daa9662f,4901,Rabatte und Preisnachlässe,2,22.0,55,True,False
+171,1ba5f501-51d5-4eb3-b28a-0f3045aaa887,4906,Kursdifferenzen,2,,55,True,False
+172,8c7e86fa-a410-4453-8a5c-976d478a43c9,5000,Löhne,2,,107,True,False
+173,b245548a-0305-4d1b-bbd3-f50731d57477,5001,Zulagen,2,,107,True,False
+174,52a9440c-223d-4eff-9d4b-91e412b94cee,5002,Erfolgsbeteiligungen,2,,107,True,False
+175,11caa01c-f870-4c1e-922a-433062a8e37f,5003,Provisionen,2,,107,True,False
+176,d6d9c94a-6a82-4c3c-9d07-0b72ae30b436,5005,Leistungen von Sozialversicherungen,2,,107,True,False
+177,8799a3a1-a4d2-4d3f-b073-f0e5dbe89232,5008,Übriger Personalaufwand,2,24.0,107,True,False
+178,65c92f3c-7c66-45f9-bbee-5aef2d66ce8e,5700,"AHV, IV, EO, ALV",2,,109,True,False
+179,45ecad68-ebeb-448e-9ef9-38b07d77b0df,5710,FAK,2,,109,True,False
+180,bd52c650-deeb-4a68-9dcb-a66abb49471a,5720,Vorsorgeeinrichtungen,2,,109,True,False
+181,be7080a7-878a-4ff8-8cf7-3370cc44880a,5730,Unfallversicherung,2,,109,True,False
+182,85b196a7-a726-4ab3-a58c-d1ffb0b2aec8,5740,Krankentaggeldversicherung,2,,109,True,False
+183,b2666805-c74f-4011-8ce5-e4a8cab79de5,5790,Quellensteuer,2,,109,True,False
+184,cdf07dac-22af-4acf-945d-cae6538f2ae2,5810,Aus- und Weiterbildung,2,24.0,111,True,False
+185,68ee91ac-b6f7-46bb-b448-e70066655c63,5820,Spesenentschädigung effektiv,2,24.0,112,True,False
+186,38111e0c-2ace-444e-80b6-391fe73b8610,5832,"Spesen, Reise, Auto, Übernachtung",2,,113,True,False
+187,91f484bc-63c3-4f3c-9903-1a28fea88c3b,5880,Personalanlässe,2,24.0,114,True,False
+188,63a44052-87bc-47ae-b60e-929dce2f27e3,5890,Privatanteile Personalaufwand,2,,115,True,False
+189,392f0b96-a8de-4804-b323-44b20500d8d7,5891,Ausgleich Naturalleistungen,2,,115,True,False
+190,e90dfdd4-ca35-440a-8908-7db00c10aec3,6000,Miete,2,,117,True,False
+191,828de9b2-bc1c-4791-99d3-bb7107658b04,6030,Nebenkosten,2,24.0,117,True,False
+192,dcdd0dcf-a177-4446-8fcf-665a7211bbe3,6040,Reinigung,2,24.0,117,True,False
+193,a3e97234-38eb-4c23-8963-ee301853bdc8,6100,URE Maschinen und Einrichtungen,2,24.0,119,True,False
+194,586c58cb-cd99-4389-ad94-5c42d69f1b8e,6200,Fahrzeugunterhalt,2,24.0,121,True,False
+195,a9eb5602-56fe-4856-b108-de21aa4e3317,6210,Betriebsstoffe,2,24.0,121,True,False
+196,4aaaad29-5d45-4f10-8eb1-ddb3d622e140,6220,Fahrzeugversicherung und Abgaben,2,,121,True,False
+197,6bbb8cd7-4119-4161-8f05-115eab95e250,6260,Fahrzeugleasing,2,24.0,121,True,False
+198,cd56ff36-d630-45b9-8ff7-3ece5d6f7975,6270,Privatanteile Fahrzeugaufwand,2,16.0,121,True,False
+199,bf927ef0-dbc8-40bc-857f-5633cee23f20,6300,Sachversicherungen,2,,123,True,False
+200,90d4ca0f-9f79-4351-a812-2eb4b7f3595b,6360,"Abgaben, Gebühren, Bewilligungen",2,,124,True,False
+201,372a13cf-1adc-4f77-83ed-94a2c99da508,6400,Energie- und Entsorgungsaufwand,2,24.0,126,True,False
+202,a7dda099-c696-4919-81f1-aaac8979c024,6500,Büromaterial,2,24.0,128,True,False
+206,d5fe4b86-93d1-448f-afea-1631f3d3e8c1,6530,Buchführung,2,24.0,128,True,False
+207,565e1592-6f40-4cd5-b69a-021c0dae873a,6559,Sonstiger Verwaltungsaufwand,2,24.0,128,True,False
+208,26bd8aec-307d-4e94-97d9-b2ddf216f3b1,6570,Informatikaufwand,2,24.0,129,True,False
+209,b2de35fe-642a-475f-af4d-51555e6f999e,6600,"Werbeinserate, elektronische Medien",2,24.0,131,True,False
+210,4ae08387-7178-4e21-85c6-f1c1a0ddf896,6640,Reisespesen,2,24.0,132,True,False
+211,b6605f2b-82b5-44ae-b9f7-698e0fb78603,6641,Kundenbetreuung,2,24.0,132,True,False
+212,ec3b0fe6-d32f-4060-9d7e-8b8825cb0b71,6800,Abschreibung Anlagevermögen,2,,133,True,False
+213,88ae050f-6be7-4970-958e-ef080a331a45,6900,Zinsaufwand,2,,63,True,False
+214,3b9c0f9b-b287-484e-a094-55ea711091f6,6940,Bankspesen,2,,63,True,False
+215,b24bcfbd-f7a1-479a-bc64-249b1841c98e,6950,Erträge aus Bankguthaben,1,,62,True,False
+216,a02a427d-cdb4-4aca-853e-3b455806824a,8000,Betriebsfremder Aufwand,2,,65,True,False
+217,e5fce1a0-205b-48a2-968a-635fcd793aa5,8100,Betriebsfremder Ertrag,1,,65,True,False
+218,80c9b14f-8eaa-4e13-8cd8-649fa05684de,8505,A.o. Verluste von Forderungen,2,,66,True,False
+219,28e59169-5779-47a9-9630-e02aa6eb0881,8514,A.o. Gewinne Veräusserung Anlagevermögen,1,,66,True,False
+220,8c61da4e-bb45-4c21-83ca-ceeafac9d1a1,8900,Direkte Steuern,2,,134,True,False
+222,e6f75ac1-ad5b-43be-9f0f-ce4d41f28a19,3402,Planung HLK,1,16.0,88,True,False
+224,e43b0778-40dc-45c6-addd-8c437486e2a8,4402,Planung HLK,2,22.0,97,True,False
+225,c009a3db-31a7-4628-8c68-b5b9e17dc50f,2101,Kontokorrent Pascal Bräm,4,,76,True,False
+226,c84e7be4-a6b6-427a-8172-2fe6b8f0581c,2102,Kontokorrent Roger Sennhauser,4,,76,True,False
+227,941950df-515f-4404-9726-9aae404020c8,2104,Kontokorrent Carmine Frangi,4,,76,True,False
+228,bdaf5250-c6f4-46ff-b930-294e85b13a4f,6700,Sonstiger Betriebsaufwand,2,24.0,135,True,False
+229,f0b17a8d-6533-4ff9-b9f2-2f15b0fa423f,6660,Sonstiger Werbeaufwand,2,,136,True,False
+230,3971289b-7588-401b-9e1e-caac757da890,5812,Berufsbildungsfonds,2,,111,True,False
+231,a8fd437c-0767-4b8d-82c8-b009f920845e,1002,Revolut,3,,43,True,False
+232,a42234a4-1731-4119-a3c8-4e6dd0ee17b5,5881,Snack Attack,2,,114,True,False
+235,15474501-15cf-43d8-a4ba-2378a5fa2bbf,6099,Sonstiger Raumaufwand,2,,117,True,False
+236,34f92059-0ac1-45ec-b712-57613e437dc3,1410,Mietkaution,3,,137,True,False
+237,14ab9125-cc1f-4548-a051-679260193721,8700,Periodenfremder Aufwand,2,,138,True,False
+238,ab1636d0-6789-485e-b151-dac1cb93b00f,8704,Bildung Arbeitgeberbeitragsreserven,2,,138,True,False
+239,15d8000b-21b5-409c-afff-3d3c12ceaa64,8710,Periodenfremder Ertrag,1,,138,True,False
+240,5a2441e7-5b9e-4bd6-80a8-0cffee3047e3,8711,Ertrag aus Rückstellungen,1,,138,True,False
+241,86401c0e-6075-44c4-b73c-d2748fbfb883,8714,Auflösung Arbeitgeberbeitragsreserven,1,,138,True,False
+245,362e293b-baaf-427a-99c2-c2b217d0dfdc,2900,Gesetzliche Kapitalreserve,4,,84,True,False

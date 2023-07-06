@@ -1,0 +1,101 @@
+id,uuid,account_no,name,parent_fibu_account_group_id,is_active,is_locked
+39,fd66c3b1-5f41-48c6-bfad-a3fc9b244597,1,Aktiven,,True,True
+40,38a22287-f826-456d-9c90-a0e705cae6da,10,Umlaufvermögen,39.0,True,True
+41,84c3a1a8-18a2-45a5-8024-10f5c0f78b6c,117,Forderungen staatlichen Stellen,40.0,True,False
+42,6f5e4f09-1bbb-4873-bea8-ac2754349a9e,110,Forderungen aus Lieferungen und Leistungen,40.0,True,False
+43,f66d1644-2b03-4c6c-866b-14485fc97fed,100,Flüssige Mittel,40.0,True,True
+44,0cba478b-b0d0-4480-9851-1ee495552372,2,Passiven,,True,True
+45,8a9e6de9-6481-4c67-9387-8c89e3084fac,20,Kurzfristiges Fremdkapital,44.0,True,False
+46,4eb843e9-a084-4f16-8b5e-5a1498532234,220,Übrige kurzfristige Verbindlichkeiten,45.0,True,False
+47,f9a54db1-89b4-40d9-b381-d2439b590669,200,Verbindlichkeiten aus Lieferungen und Leistungen,45.0,True,False
+48,f53b6026-2230-4630-aff1-2fc8eaa9e021,3,Betrieblicher Ertrag,,True,True
+49,3cf762a9-89d8-48c3-9b0c-5a816d10936b,38,Erlösminderung,48.0,True,False
+50,2479e72c-b03a-4816-9473-ac7ef7a29a5e,380,Erlösminderung,49.0,True,False
+51,4bb3870e-8cdf-4eee-bc33-46d0cc77f665,32,Handelserlös,48.0,True,False
+52,92c69726-9429-4314-8d53-e18ef6a5486f,320,Handelserlös,51.0,True,False
+53,898a249d-866e-419f-9f1b-0e44a9a8606c,4,"Aufwand für Material, Handel, Dienstleistung",,True,True
+54,b20fa964-5df8-4534-8322-2b8cd0bbd9dc,49,Einkaufspreisminderungen,53.0,True,False
+55,bd1c3179-edc5-4b63-92ba-6a8edb312938,490,Einkaufspreisminderungen,54.0,True,False
+56,3ca3e357-cb69-4691-9d07-f983dbca7c66,42,Handelswarenaufwand,53.0,True,False
+57,e4c10a4b-7a2f-4ff8-948f-895871652edb,420,Handelswarenaufwand,56.0,True,False
+58,53c58a32-7120-4b7d-9053-e3482b406024,5,Personalaufwand,,True,True
+59,bdf53dfb-d23d-48b4-bdb7-dd5f15d47c9e,6,Betrieblicher Aufwand,,True,True
+60,d145b319-7f9b-408a-88a2-961e2837ac18,68,Abschreibung,59.0,True,True
+61,36b81ca2-5b0c-49d6-9d4b-24a69165317b,69,Finanzaufwand und Finanzertrag,59.0,True,True
+62,ee0e3071-d894-40f1-aee4-b3e793f7a649,695,Finanzertrag,61.0,True,False
+63,b5027017-41a5-405c-bca3-8a5f3a20a710,690,Finanzaufwand,61.0,True,False
+64,5527fe6c-5565-4243-9856-9049f1ca6cc2,8,Ausserordentlicher Aufwand / Ertrag,,True,True
+65,33d0fadd-664c-4843-ad92-e5433f156338,80,Betriebsfremder Aufwand und betriebsfremder Ertrag,64.0,True,True
+66,a5863979-c978-4bd8-9b79-9935b282117d,85,Ausserordentlicher Aufwand und Ertrag,64.0,True,True
+67,34038468-8cd4-46ed-aea5-d7cd951c22b2,9,Abschluss,,True,True
+68,02aef92d-2158-4cde-849b-f02f8ac7d838,91,Abschluss,67.0,True,False
+69,5af35c1a-0b58-4053-9809-5ed61a287b0a,14,Anlagevermögen,39.0,True,False
+70,3a38b6b3-d354-4914-90ac-9234bc8596b6,150,Mobile Sachanlagen,69.0,True,False
+71,1d5ac3b3-35a0-48a9-819b-c6cab95e8a90,109,Transferkonto,40.0,True,False
+72,9b62b916-668e-4b96-8b88-0745faaacf23,114,Übrige kurzfristige Forderungen gegenüber Dritten,40.0,True,False
+73,5995f815-e6ca-4791-af74-b8f4d01a7c03,118,Ford. Sozialvers./Kautionen/Depot,40.0,True,False
+74,e567ddd2-a249-4413-bd5d-46327d12ea80,120,Vorräte / nicht fakturierte Dienstleistungen,40.0,True,False
+75,ddd5d3f0-2c45-4b37-9db2-2ea44fd1b233,130,Aktive Rechnungsabgrenzungen,40.0,True,False
+76,ba619e8c-7599-4394-b96b-1b45182c7a0f,210,Kurzfristige Verbindlichkeiten,45.0,True,False
+77,cc1b82fa-5327-46e6-8bef-d0e0737b4f03,227,Verbindlichkeiten Sozialversicherungen,45.0,True,False
+78,366f0215-c6cb-4542-812f-747d7abfc2c1,230,Passive Rechnungsabgrenzungen,45.0,True,False
+79,98cd14eb-48fa-4fc2-b564-ff15fc5dc3dc,24,Langfristiges Fremdkapital,44.0,True,False
+80,691a1e6b-4855-4110-b79e-1a533d67f0ec,240,Langfristige Verbindlichkeiten,79.0,True,False
+81,28c987f9-26f1-46d1-b7a8-a6003d863c34,256,Verbindlichkeiten gegenüber Beteiligten,79.0,True,False
+82,a8be86d8-e743-4e37-895b-536366f5c443,28,Eigenkapital,44.0,True,False
+83,f807d8dd-77ac-4c7f-926f-92d7d0d563fb,280,Kapital,82.0,True,False
+84,97e9fec6-3ac3-44b1-bd3b-291a3b4b5650,290,Reserven / Jahresgewinn/-verlust,82.0,True,False
+85,f72d33c2-f4b3-4225-955b-91685eac82cd,30,Produktionserlös,48.0,True,False
+86,dc6f0bae-d798-402f-9dcd-d65a3a124ac7,300,Produktionserlös,85.0,True,False
+87,e097c0ce-9926-4c22-b187-977c8593dbfb,34,Dienstleistungserlös,48.0,True,False
+88,d7b9912a-fb22-490e-9315-699e7ac26d9d,340,Dienstleistungserlös,87.0,True,False
+89,fe7c246f-472f-413d-ad9c-9cb7c2bd42bd,36,Übrige Erlöse,48.0,True,False
+90,de6439ed-ea1e-4075-a322-eeac18dac571,360,Nebenerlös Lieferungen und Leistungen,89.0,True,False
+91,d9c5d38e-9787-4edf-88d2-7915840d9be7,368,Sonstige Erlöse,89.0,True,False
+92,ee56dec9-8f04-4425-85dd-621865d5999b,39,Bestandesänderungen,48.0,True,False
+93,e348777f-17f8-4917-b1a5-e36d7f337398,394,Bestandsänderungen Dienstleistungen,92.0,True,False
+94,f9c2a012-0881-4af0-842a-934b020686b7,40,Materialaufwand,53.0,True,False
+95,71b24211-8cff-4dec-be43-2b097a940a88,427,Direkte Einkaufsspesen Handel,56.0,True,False
+96,5fb6f7ba-0291-49a0-99ec-9967331eeaf1,44,Aufwand für bezogene Dienstleistungen,53.0,True,False
+97,97c0f50a-be94-4a35-bfe9-115fea3c5294,440,Aufwand für bezogene Dienstleistungen,96.0,True,False
+98,52c4d3eb-2a81-4628-b2f4-c74441ee1b3c,46,Übriger Aufwand,53.0,True,False
+99,10540fbb-8976-4b27-ada7-21a47f2bff35,462,Übriger Handelswarenaufwand,98.0,True,False
+100,960ea97b-ec13-4bda-b5bc-a69e59c2f715,464,Übriger Aufwand für Dienstleistungen,98.0,True,False
+101,d1ecc51e-d6fd-4d36-99a9-57427efa39f8,465,Aufwand für Verpackungen,98.0,True,False
+102,33eace48-fd62-4c7c-932a-296c3485c7c3,466,Veränderung der Garantierückstellungen,98.0,True,False
+103,55789ed1-a967-4690-8191-c56fcaadccff,47,Direkte Einkaufsspesen,53.0,True,False
+104,68424bba-20a9-487b-89bf-cfe4f03ed901,48,Bestandsänderungen,53.0,True,False
+105,081d7c64-88f4-40d4-b5d8-af4588ba7126,480,Bestandsänderung Material / Handelswaren,104.0,True,False
+106,2e59fb64-9677-4885-82b0-f698f53076f3,50,Personalaufwand,58.0,True,False
+107,d98dbcf9-6c0a-4b3f-9f01-f664e87fc981,500,Lohnaufwand,106.0,True,False
+108,fea2b4f2-5eeb-461b-88bb-bfbfe36610e1,57,Sozialversicherungsaufwand,58.0,True,False
+109,0306ce37-16d8-452e-8ac0-964ea76c0ed8,570,Sozialversicherungsaufwand,108.0,True,False
+110,9c095807-2749-4ad4-a883-f3ab5778f494,58,Übriger Personalaufwand,58.0,True,False
+111,e95e1d07-8372-42c1-884a-d3f5f69bc387,581,Aus- und Weiterbildung,110.0,True,False
+112,068ee2fe-774c-46f9-8466-98396e50c328,582,Spesenentschädigung effektiv,110.0,True,False
+113,5d3ada4d-6b6e-4171-9aa6-2866d2f5c779,583,Spesenentschädigung pauschal,110.0,True,False
+114,3e88e5a6-2748-409c-9bbe-19be15910671,588,Sonstiger Personalaufwand,110.0,True,False
+115,21b55f23-5b1a-4a9b-bee0-1f562ae32c26,589,Privatanteile Personalaufwand,110.0,True,False
+116,bb389152-aa34-4952-97c8-be0b00ddc539,60,Raumaufwand,59.0,True,False
+117,6757f7f7-ac08-4759-94a7-9ce37eb348af,600,Fremdmiete Geschäftslokalitäten,116.0,True,False
+118,498a1934-9d2d-406f-ac31-14aa46aef6fe,61,"Unterhalt, Reparaturen, Ersatz (URE), Leasing",59.0,True,False
+119,653f5257-b87a-4f7e-8e7d-15ea9421a028,610,URE Maschinen und Einrichtungen,118.0,True,False
+120,2ba5a6d4-c5e8-4cf9-b6f5-cba6652c6d10,62,Fahrzeug und Transportaufwand,59.0,True,False
+121,16285526-82bc-4fe5-81a9-3253159fb10b,620,Fahrzeugaufwand,120.0,True,False
+122,5d37543e-b060-41e8-9638-6ebf3813229c,63,"Sachversicherungen, Abgaben, Gebühren, Bewilligungen",59.0,True,False
+123,2c0252b3-89e0-405f-ab16-4e90219781d4,630,Sachversicherungen,122.0,True,False
+124,2b9c25d7-aa70-429b-9cb6-f08d51ec5195,636,"Abgaben, Gebühren, Bewilligungen",122.0,True,False
+125,78c3d961-1e21-4732-8f5c-f94cddaca7f4,64,Energie- und Entsorgungsaufwand,59.0,True,False
+126,df019cc9-a315-4848-8aaf-c1af0ea51cd2,640,Energie- und Entsorgungsaufwand,125.0,True,False
+127,0a60d835-8dd7-4f2c-a242-3084198fce79,65,Verwaltungs- und Informatikaufwand,59.0,True,False
+128,a05b6c46-1b5c-48ff-a381-3a21752c3bb9,650,Verwaltungsaufwand,127.0,True,False
+129,152ef465-0d23-4e2a-8143-8f2b796a6f71,657,Informatikaufwand,127.0,True,False
+130,ecfa7551-4b0f-47e3-8dca-4b9494702032,66,Werbeaufwand,59.0,True,False
+131,85ba4fcc-6546-44a8-be2a-617a0b2a74c6,660,"Werbeinserate, elektronische Medien",130.0,True,False
+132,675922b1-1b1c-48bb-a76f-5b42789fb407,664,"Reisespesen, Kundenbetreuung",130.0,True,False
+133,6bcc26a4-5c88-4807-8152-87da6c5f6976,680,Anlagevermögen,60.0,True,False
+134,306253ff-3aef-4b8e-8841-41328b454be7,89,Direkte Steuern,64.0,True,False
+135,48b8f7cb-1e07-4cb6-8831-d5c81dbd02f7,67,Sonstiger Betriebsaufwand,59.0,True,False
+136,393a456a-17b2-4d41-8f4e-645d4535a5d4,666,Sonstiger Werbeaufwand,130.0,True,False
+137,b930513d-09ac-43cf-b29a-482e62482fe9,140,Finanzanlagen,69.0,True,False
+138,07fc146c-e59b-4057-9d67-0a83312c313a,87,Periodenfremder Aufwand und Ertrag,64.0,True,False

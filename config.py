@@ -1,0 +1,28 @@
+import os
+
+"""Development Configuration"""
+
+NOTION_API_KEY = "secret_GaB2ZPu9wPgPpQFgn55o76UBaXQdik4kbsKeuEsOvBW"
+BEXIO_API_KEY = (
+    "eyJraWQiOiI2ZGM2YmJlOC1iMjZjLTExZTgtOGUwZC0wMjQyYWMxMTAwMDIiLCJhbGciOiJSUzI1NiJ9"
+    ".eyJzdWIiOiJpbmZvQGVjb2x1dGlvbi5zd2lzcyIsImxvZ2luX2lkIjoiODIwMmY4ZjUtMTdlMi00MTVhLWE1OTUtMTAzNGNmMTM4ZWFjIiwiY29tcGFueV9pZCI6InFoZ2hxaW5ydTRnbiIsInVzZXJfaWQiOjMxNTYxMiwiYXpwIjoiZXZlcmxhc3QtdG9rZW4tb2ZmaWNlLWNsaWVudCIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgYWxsIHRlY2huaWNhbCIsImlzcyI6Imh0dHBzOlwvXC9pZHAuYmV4aW8uY29tIiwiZXhwIjozMjY0ODQzMjE3LCJpYXQiOjE2ODgwNDMyMTcsImNvbXBhbnlfdXNlcl9pZCI6MSwianRpIjoiMGFmNzJiNDItOTllZC00MmExLWIzOTQtZmNjZTNiMDJmYzA0In0.Cxf_ZcoSAKMpEK5rwNP55SRypZD9WrAG-j-PaH4kFPMyyJ268GqrZJC9QDiGCZDppdHgoPfNnR3DS5Gxo9K50ICsJjxMnCCEB-Oxg7HDdBG6R9X6K9noTab4dSSWHztuEbyz5h8AOhgUPf-zTPIhX3l2_E__OShDuueLIV5TuUGgjnNqkoo4CgV7RQ73WW2GB6OYNvlKcpBpueZsL0zRJ-k7Hq3sFzGlWxxsas0G96RHMNcogWdRGFZyWqSu4ZGLTN6a-XftpbBuciMGtxQCRj0BEKugDHlfDGfOFidYEWv2cAVJLM2Tx3dqkOl92qCOI2qJz73rvQ0Br8erB1JvsN65n9xPltXlv4cK6wGjosg9-k6rFpTSjLwxZZJiEc-DCdLT0c18MsMtLX0YHtuPxgSBOZRv2Q8z_ce9U9D4yUNJbO7Jh_V26F-LPCoQyQt-MDqjlHkNlW88DUVMNRH2RPBbQD4_BF2YkjSTwIM3nX4bWSdE-NOXtI4xnOAZ2Eq8lGzvKS_5Qdx2y1VJuRJhe8jv75JHgaElqMz7ssEq37jJpuBsPEw4oJUKO0aV-O_Y6HfQxPVZu9MK0VzgpbL3wEvzdxALPDVaLOLu4qJsxSXPJ0LWNtJ2DtqPbLYJ_sCoT6J1yrMeDRTFGdjG3GiWFlpy4vqd90pBBilpa1DYbOk"
+)
+
+
+class Config:
+    pass
+
+
+class DevelopmentConfig(Config):
+    DEBUG = True
+
+
+class ProductionConfig(Config):
+    DEBUG = False
+
+
+config = (
+    DevelopmentConfig
+    if os.getenv("FLASK_ENV", default="development") == "development"
+    else ProductionConfig
+)
