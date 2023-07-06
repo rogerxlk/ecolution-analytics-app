@@ -9,7 +9,7 @@ def create_navigation_bar():
                 dbc.Row(
                     [
                         dbc.Col(
-                            html.Img(src="/static/logo.png", height="30px"),
+                            html.Img(src="/static/images/logo.png", height="30px"),
                             width=2,
                             className="my-auto",
                         ),
