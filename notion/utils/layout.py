@@ -1,4 +1,4 @@
-from dash import dcc, html, no_update
+from dash import dcc, html
 
 
 def layout_notion(df):

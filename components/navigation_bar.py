@@ -24,14 +24,6 @@ def create_navigation_bar():
                     [
                         dbc.NavItem(dbc.NavLink("Notion", href="/dashboard/notion")),
                         dbc.NavItem(dbc.NavLink("Bexio", href="/dashboard/bexio")),
-                        dbc.NavItem(
-                            dbc.Button(
-                                html.I(className="fas fa-sign-out-alt"),
-                                href="/logout",
-                                color="secondary",
-                                className="ml-auto",
-                            )
-                        ),
                     ],
                     className="ml-auto",
                     navbar=True,
