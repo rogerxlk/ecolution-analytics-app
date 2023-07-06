@@ -549,7 +549,7 @@ Schweiz",0,"Stalder-Rüttimann GmbH
 Yvan Stalder
 Unterdorf 12
 5636 Benzenschwil
-Schweiz",15,False,,,2023-01-18 13:37:26,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '10.0100'}]",
+Schweiz",6,False,,,2023-07-03 16:50:03,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '10.0100'}]",
 75,AU-00075,"GEAK®Plus - Mellingerstr.1, Baden",124,,1,88.0,1,1,1,1,4,Guten Tag PRIVERA AG<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,3950.000000,3560.350000,389.6472,3950.000000,0.0,0,False,False,2023-01-16,"PRIVERA AG
 Kreditorenverarbeitung
 Postfach 1207
@@ -850,7 +850,7 @@ Schweiz",0,"Dullovi Bau AG
 Herr Nusret Dullovi
 Grenzstrasse 9a
 5412 Gebenstorf
-Schweiz",5,False,,,2023-05-26 14:08:00,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '92.9434'}]",
+Schweiz",15,False,,,2023-07-03 16:17:24,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '92.9434'}]",
 113,AU-00113,"EN - Talstr.10, Veltheim AG, MFH",146,156.0,1,,1,1,1,1,4,Guten Tag Kushtrim Krasniqi<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,3000.000000,2785.500000,214.4847,3000.000000,0.0,0,False,False,2023-05-26,"Dullovi Bau AG
 Herr Nusret Dullovi
 Grenzstrasse 9a
@@ -957,3 +957,21 @@ Zahra Chopany
 Gassenacker 10
 8545 Rickenbach
 Schweiz",5,False,,,2023-06-29 09:27:01,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '446.6000'}]",
+125,AU-00125,"Ges - Erli 2+3, Steinhausen, MFH",4,,1,,1,1,1,1,4,Guten Tag Stalder-Rüttimann GmbH<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,550.000000,550.000000,42.3500,592.350000,0.0,0,True,False,2023-07-04,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",0,"Stalder-Rüttimann GmbH
+Yvan Stalder
+Unterdorf 12
+5636 Benzenschwil
+Schweiz",5,False,,,2023-07-04 15:55:03,622f308b87e2d83a3d360505,"[{'percentage': '7.70', 'value': '42.3500'}]",
+126,AU-00126,"Offerte - Umbau EFH, Riedmattenstrasse 1, Oberrohrdorf",53,54.0,1,,1,1,1,1,4,Guten Tag Tobias Holenweger<br/><br/>Danke für Ihren Auftrag. Nachfolgend finden Sie Ihre Auftragsbestätigung.,Sie haben Fragen? Melden Sie sich bei uns.<br/><br/>Freundliche Grüsse<br/>Kevin Imhoff,750.000000,750.000000,57.7500,807.750000,0.0,0,True,False,2023-07-05,"Blaser Baumanagement AG
+Herr Tobias Holenweger
+Bremgartenstrasse 2
+5443 Niederrohrdorf
+Schweiz",0,"Blaser Baumanagement AG
+Herr Tobias Holenweger
+Bremgartenstrasse 2
+5443 Niederrohrdorf
+Schweiz",5,False,,,2023-07-05 09:51:02,6228622cf9f3e7797d45edb2,"[{'percentage': '7.70', 'value': '57.7500'}]",

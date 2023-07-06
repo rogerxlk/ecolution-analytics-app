@@ -39,7 +39,6 @@ def add_dash(server):
         external_stylesheets=external_stylesheets,
         routes_pathname_prefix="/dashboard/",
     )
-    dash_app.title = "Ecolution Analytics"
 
     # register callbacks
     register_notion_callbacks(dash_app)

@@ -3383,3 +3383,5 @@ id,ref_id,ref_class,date,debit_account_id,credit_account_id,description,amount,c
 4032,254.0,KbInvoice,2023-06-29T00:00:00+02:00,113,150,"GEAK Plus - Schöntal 4, Endingen",-1500.0,1,
 4033,254.0,KbInvoice,2023-06-29T00:00:00+02:00,113,105,"GEAK Plus - Schöntal 4, Endingen",264.531105,1,
 4034,254.0,KbInvoice,2023-06-29T00:00:00+02:00,113,105,"GEAK Plus - Schöntal 4, Endingen",0.0,1,
+4037,256.0,KbInvoice,2023-07-03T00:00:00+02:00,113,150,"EN - Oberer Rainweg 1, Frick, 2x EFH",1207.056639,1,
+4038,256.0,KbInvoice,2023-07-03T00:00:00+02:00,113,105,"EN - Oberer Rainweg 1, Frick, 2x EFH",92.943361,1,
